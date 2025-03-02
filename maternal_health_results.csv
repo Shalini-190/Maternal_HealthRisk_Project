@@ -1,0 +1,1015 @@
+Age,SystolicBP,DiastolicBP,BS,BodyTemp,HeartRate,RiskLevel,Hierarchical_Cluster,GMM_Cluster,PCA1,PCA2,Recommendation
+25,130,80,15.0,98.0,86,high risk,2,1,1.4319772634646293,1.4187676450337898,Monitor blood pressure regularly and reduce sodium intake.
+35,140,90,13.0,98.0,70,high risk,2,1,2.122004983329837,-0.3922938372529959,Monitor blood pressure regularly and reduce sodium intake.
+29,90,70,8.0,100.0,80,high risk,0,2,-1.285460816007349,1.0896706973966288,Engage in regular physical activity and manage stress levels.
+30,140,85,7.0,98.0,70,high risk,1,0,0.9962585580814968,-1.0553545118659977,Maintain regular check-ups and a balanced diet.
+35,120,60,6.1,98.0,76,low risk,1,0,-0.46042216661660273,-0.1526269190441499,Maintain regular check-ups and a balanced diet.
+23,140,80,7.01,98.0,70,high risk,1,0,0.5826374271467879,-1.0998233900455303,Maintain regular check-ups and a balanced diet.
+23,130,70,7.01,98.0,78,mid risk,1,0,-0.06195834859598869,-0.1622863348424259,Maintain regular check-ups and a balanced diet.
+35,85,60,11.0,102.0,86,high risk,0,2,-1.6080662183981103,2.8246907781860546,Engage in regular physical activity and manage stress levels.
+32,120,90,6.9,98.0,70,mid risk,1,0,0.6605341023340849,-0.9619732386764875,Maintain regular check-ups and a balanced diet.
+42,130,80,18.0,98.0,70,high risk,2,1,2.330559738422315,0.3835997442259682,Monitor blood pressure regularly and reduce sodium intake.
+23,90,60,7.01,98.0,76,low risk,0,0,-1.5950650235101693,-0.025006990238369414,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+25,110,89,7.01,98.0,77,low risk,1,0,0.13989035534518188,-0.28073837623372716,Maintain regular check-ups and a balanced diet.
+20,120,75,7.01,100.0,70,mid risk,0,2,-0.6776518794051256,-0.34483950339611713,Engage in regular physical activity and manage stress levels.
+48,120,80,11.0,98.0,88,mid risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+15,120,80,7.01,98.0,70,low risk,1,0,-0.2522120251178853,-1.0797777252087581,Maintain regular check-ups and a balanced diet.
+50,140,90,15.0,98.0,90,high risk,2,1,2.915799324886878,1.9834480905043121,Monitor blood pressure regularly and reduce sodium intake.
+25,140,100,7.01,98.0,80,high risk,1,0,1.4252198606579511,-0.26706883957368893,Maintain regular check-ups and a balanced diet.
+30,120,80,6.9,101.0,76,mid risk,0,2,-0.36448544502404734,0.6312652523697545,Engage in regular physical activity and manage stress levels.
+10,70,50,6.9,98.0,70,low risk,0,0,-2.9974206050827297,-0.5829219208943691,Maintain regular check-ups and a balanced diet.
+40,140,100,18.0,98.0,90,high risk,2,1,3.3563205955661175,2.088010568737546,Monitor blood pressure regularly and reduce sodium intake.
+50,140,80,6.7,98.0,70,mid risk,1,0,1.4168048116224208,-0.7864231308215022,Maintain regular check-ups and a balanced diet.
+21,90,65,7.5,98.0,76,low risk,0,0,-1.4082244959760934,-0.04248244625247255,Maintain regular check-ups and a balanced diet.
+18,90,60,7.5,98.0,70,low risk,0,0,-1.7084938926408193,-0.6273013617809655,Maintain regular check-ups and a balanced diet.
+21,120,80,7.5,98.0,76,low risk,1,0,0.02027597289025729,-0.3595897411914358,Maintain regular check-ups and a balanced diet.
+16,100,70,7.2,98.0,80,low risk,0,0,-1.1228183900867776,0.14921814771358669,Maintain regular check-ups and a balanced diet.
+19,120,75,7.2,98.0,66,low risk,1,0,-0.2963087965134358,-1.357484206134438,Maintain regular check-ups and a balanced diet.
+22,100,65,7.2,98.0,70,low risk,0,0,-1.1415896494990572,-0.7138107074224761,Maintain regular check-ups and a balanced diet.
+49,120,90,7.2,98.0,77,low risk,1,1,1.2671121656252768,-0.022494174444566077,Monitor blood pressure regularly and reduce sodium intake.
+28,90,60,7.2,98.0,82,low risk,0,0,-1.3937358262231008,0.6501829565288675,Maintain regular check-ups and a balanced diet.
+20,100,90,7.1,98.0,88,low risk,1,0,-0.23336151724961648,0.8000522292211597,Maintain regular check-ups and a balanced diet.
+23,100,85,7.1,98.0,66,low risk,1,0,-0.3790156903488712,-1.282753184266988,Maintain regular check-ups and a balanced diet.
+22,120,90,7.1,98.0,82,low risk,1,0,0.39233987935492187,0.11234627427893874,Maintain regular check-ups and a balanced diet.
+21,120,80,7.1,98.0,77,low risk,1,0,-0.0289513374006596,-0.30403100095698193,Maintain regular check-ups and a balanced diet.
+21,75,50,6.1,98.0,70,low risk,0,0,-2.600707195155525,-0.558148815509033,Maintain regular check-ups and a balanced diet.
+12,95,60,6.1,102.0,60,low risk,0,2,-2.7627284011212465,-0.6166418084589903,Engage in regular physical activity and manage stress levels.
+60,120,80,6.1,98.0,75,low risk,1,1,1.0996164670212023,-0.10741659563233932,Monitor blood pressure regularly and reduce sodium intake.
+55,100,65,6.1,98.0,66,low risk,1,1,-0.22518135920301416,-0.8018225682699353,Monitor blood pressure regularly and reduce sodium intake.
+45,120,95,6.1,98.0,66,low risk,1,1,1.1563961390892044,-1.3189164805684424,Monitor blood pressure regularly and reduce sodium intake.
+35,100,70,6.1,98.0,66,low risk,1,0,-0.6845071692835345,-1.102913761913537,Maintain regular check-ups and a balanced diet.
+22,120,85,6.1,98.0,88,low risk,1,0,0.08968820791184963,0.6401045417721767,Maintain regular check-ups and a balanced diet.
+23,120,90,6.1,98.0,60,low risk,1,0,0.24092110297641314,-2.1476616644655397,Maintain regular check-ups and a balanced diet.
+25,90,70,6.1,98.0,80,low risk,0,0,-1.2615046491717656,0.20821858773131255,Maintain regular check-ups and a balanced diet.
+30,120,80,6.1,98.0,70,low risk,1,0,0.11584531610082854,-0.9847557869946927,Maintain regular check-ups and a balanced diet.
+23,120,90,6.1,98.0,70,low risk,1,0,0.2657087539285331,-1.1632767607995833,Maintain regular check-ups and a balanced diet.
+32,120,90,7.5,98.0,70,low risk,1,0,0.7380932154132781,-0.8976536134782752,Maintain regular check-ups and a balanced diet.
+42,120,80,7.5,98.0,70,low risk,1,0,0.6853675101300049,-0.6806179657204467,Maintain regular check-ups and a balanced diet.
+23,90,60,7.5,98.0,76,low risk,0,0,-1.5317250811621614,0.027520703673504093,Maintain regular check-ups and a balanced diet.
+15,76,49,7.5,98.0,77,low risk,0,0,-2.6055210804956146,0.20669816163633042,Maintain regular check-ups and a balanced diet.
+15,120,80,7.0,98.0,70,low risk,1,0,-0.2535046770025385,-1.0808497189620616,Maintain regular check-ups and a balanced diet.
+25,120,80,7.0,98.0,66,low risk,1,0,0.06037270443138481,-1.3462214339186522,Maintain regular check-ups and a balanced diet.
+22,100,65,7.0,98.0,80,low risk,0,0,-1.1426550362400014,0.24913432117740922,Maintain regular check-ups and a balanced diet.
+35,100,70,7.0,98.0,60,low risk,1,0,-0.5830410902360166,-1.597065266315792,Maintain regular check-ups and a balanced diet.
+19,120,85,7.0,98.0,60,low risk,1,0,0.03948372232027233,-2.0582084246481194,Maintain regular check-ups and a balanced diet.
+60,90,65,7.0,98.0,77,low risk,1,1,-0.20758780203593483,0.5030471178371339,Monitor blood pressure regularly and reduce sodium intake.
+23,120,90,6.7,98.0,70,low risk,1,0,0.34326786700772643,-1.098957135601371,Maintain regular check-ups and a balanced diet.
+32,120,90,6.4,98.0,70,low risk,1,0,0.595901508101424,-1.0155729263416646,Maintain regular check-ups and a balanced diet.
+42,120,80,6.4,98.0,70,low risk,1,0,0.5431758028181507,-0.7985372785838363,Maintain regular check-ups and a balanced diet.
+23,90,60,6.4,98.0,76,low risk,0,0,-1.6739167884740158,-0.09039860918988538,Maintain regular check-ups and a balanced diet.
+15,76,49,6.4,98.0,77,low risk,0,0,-2.747712787807469,0.08877884877294093,Maintain regular check-ups and a balanced diet.
+15,120,80,7.2,98.0,70,low risk,1,0,-0.22765163930947407,-1.0594098438959907,Maintain regular check-ups and a balanced diet.
+15,80,60,7.0,98.0,80,low risk,0,0,-2.13338431787222,0.32634491128917886,Maintain regular check-ups and a balanced diet.
+12,95,60,7.2,98.0,77,low risk,0,0,-1.7802436838995805,-0.07810895523092881,Maintain regular check-ups and a balanced diet.
+29,90,70,6.7,98.0,80,mid risk,0,0,-1.054428559366664,0.32389111153344174,Maintain regular check-ups and a balanced diet.
+31,120,60,6.1,98.0,76,mid risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+29,130,70,6.7,98.0,78,mid risk,1,0,0.09224490806862429,-0.11848879328896061,Maintain regular check-ups and a balanced diet.
+17,85,60,9.0,102.0,86,mid risk,0,2,-2.4494229905953424,2.379203983807721,Engage in regular physical activity and manage stress levels.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+20,110,60,7.0,100.0,70,mid risk,0,2,-1.5316295013432737,-0.15155566425506295,Engage in regular physical activity and manage stress levels.
+32,120,65,6.0,101.0,76,mid risk,0,2,-0.9808428469269497,0.6934423657464491,Engage in regular physical activity and manage stress levels.
+26,85,60,6.0,101.0,86,mid risk,0,2,-2.3462668575352126,1.8599396807086084,Engage in regular physical activity and manage stress levels.
+29,130,70,7.7,98.0,78,mid risk,1,0,0.2215100965339463,-0.011289417958606548,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+54,130,70,12.0,98.0,67,mid risk,2,1,1.5595650954244271,-0.31219988179615643,Monitor blood pressure regularly and reduce sodium intake.
+44,120,90,16.0,98.0,80,mid risk,2,1,2.2501858984983607,1.1519846763074406,Monitor blood pressure regularly and reduce sodium intake.
+23,130,70,6.9,98.0,70,mid risk,1,0,-0.09600764008887,-0.9615861890615298,Maintain regular check-ups and a balanced diet.
+22,85,60,6.9,98.0,76,mid risk,0,0,-1.785617313126046,-0.018949280664536133,Maintain regular check-ups and a balanced diet.
+55,120,90,12.0,98.0,70,mid risk,2,1,2.064509179681201,-0.11997725751916084,Monitor blood pressure regularly and reduce sodium intake.
+35,120,80,6.9,98.0,78,mid risk,1,0,0.4009838085421678,-0.04729724054274853,Maintain regular check-ups and a balanced diet.
+21,90,60,6.9,98.0,86,mid risk,0,0,-1.649255031652189,0.9219095328392896,Maintain regular check-ups and a balanced diet.
+16,90,65,6.9,98.0,76,mid risk,0,0,-1.6476798299626723,-0.17099319470558086,Maintain regular check-ups and a balanced diet.
+33,115,65,7.0,98.0,70,mid risk,1,0,-0.37940937708623096,-0.6860937078612301,Maintain regular check-ups and a balanced diet.
+12,95,60,6.9,98.0,65,mid risk,0,0,-1.848768421581721,-1.2915306522291823,Maintain regular check-ups and a balanced diet.
+28,120,90,6.9,98.0,70,mid risk,1,0,0.5310171256081764,-1.0133261372804043,Maintain regular check-ups and a balanced diet.
+21,90,65,6.9,98.0,76,mid risk,0,0,-1.4857836090552867,-0.10680207145068496,Maintain regular check-ups and a balanced diet.
+18,90,60,6.9,98.0,70,mid risk,0,0,-1.7860530057200126,-0.6916209869791778,Maintain regular check-ups and a balanced diet.
+21,120,80,6.9,98.0,76,mid risk,1,0,-0.05728314018893589,-0.4239093663896482,Maintain regular check-ups and a balanced diet.
+16,100,70,6.9,98.0,80,mid risk,0,0,-1.1615979466263742,0.11705833511448045,Maintain regular check-ups and a balanced diet.
+19,120,75,6.9,98.0,66,mid risk,1,0,-0.33508835305303236,-1.3896440187335444,Maintain regular check-ups and a balanced diet.
+23,100,85,6.9,98.0,66,mid risk,1,0,-0.4048687280419356,-1.3041930593330586,Maintain regular check-ups and a balanced diet.
+22,120,90,7.8,98.0,82,mid risk,1,0,0.4828255112806473,0.18738583701018666,Maintain regular check-ups and a balanced diet.
+60,120,85,15.0,98.0,60,mid risk,2,1,2.401154241483411,-0.6742462113151405,Monitor blood pressure regularly and reduce sodium intake.
+13,90,65,7.8,101.0,80,mid risk,0,2,-2.2171793349758717,1.2203561275057728,Engage in regular physical activity and manage stress levels.
+23,120,90,7.8,98.0,60,mid risk,1,0,0.46067192336746066,-1.9654227264039377,Maintain regular check-ups and a balanced diet.
+28,115,60,7.8,101.0,86,mid risk,0,2,-1.1851077817153948,1.8944478125382958,Engage in regular physical activity and manage stress levels.
+50,120,80,7.8,98.0,70,mid risk,1,1,0.9831810201214186,-0.5457523559135072,Monitor blood pressure regularly and reduce sodium intake.
+29,130,70,7.8,98.0,78,mid risk,1,0,0.23443661538047847,-0.0005694804255711417,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+19,120,85,7.8,98.0,60,mid risk,1,0,0.14289587309252993,-1.9724489243838361,Maintain regular check-ups and a balanced diet.
+60,90,65,6.8,98.0,77,mid risk,1,1,-0.23344083972899923,0.48160724277106304,Monitor blood pressure regularly and reduce sodium intake.
+55,120,90,6.8,98.0,66,mid risk,1,1,1.3824151392806787,-1.0711679707033843,Monitor blood pressure regularly and reduce sodium intake.
+25,120,80,6.8,98.0,66,mid risk,1,0,0.03451966673832039,-1.367661308984723,Maintain regular check-ups and a balanced diet.
+48,140,90,15.0,98.0,90,high risk,2,1,2.8510408365239237,1.9577716412023538,Monitor blood pressure regularly and reduce sodium intake.
+25,140,100,6.8,98.0,80,high risk,1,0,1.3980741710802336,-0.2895807083930632,Maintain regular check-ups and a balanced diet.
+23,140,90,6.8,98.0,70,high risk,1,0,0.9320098846671147,-1.2109886601129412,Maintain regular check-ups and a balanced diet.
+34,85,60,11.0,102.0,86,high risk,0,2,-1.6404454625795875,2.8118525535350756,Engage in regular physical activity and manage stress levels.
+50,140,90,15.0,98.0,90,high risk,2,1,2.915799324886878,1.9834480905043121,Monitor blood pressure regularly and reduce sodium intake.
+25,140,100,6.8,98.0,80,high risk,1,0,1.3980741710802336,-0.2895807083930632,Maintain regular check-ups and a balanced diet.
+42,140,100,18.0,98.0,90,high risk,2,1,3.4210790839290715,2.1136870180395047,Monitor blood pressure regularly and reduce sodium intake.
+32,140,100,7.9,98.0,78,high risk,1,0,1.7619630574720035,-0.2786708037060107,Maintain regular check-ups and a balanced diet.
+50,140,95,17.0,98.0,60,high risk,2,1,3.2882258225101846,-0.7996345704568664,Monitor blood pressure regularly and reduce sodium intake.
+38,135,60,7.9,101.0,86,high risk,0,2,-0.2725733222412351,1.9107985345365173,Engage in regular physical activity and manage stress levels.
+39,90,70,9.0,98.0,80,high risk,0,1,-0.43332618408165213,0.6988319213030478,Monitor blood pressure regularly and reduce sodium intake.
+30,140,100,15.0,98.0,70,high risk,2,1,2.59515728645114,-0.3307396110952202,Monitor blood pressure regularly and reduce sodium intake.
+63,140,90,15.0,98.0,90,high risk,2,1,3.3367294992460805,2.1503450109670417,Monitor blood pressure regularly and reduce sodium intake.
+25,140,100,7.9,98.0,80,high risk,1,0,1.5402658783920877,-0.17166139552967372,Maintain regular check-ups and a balanced diet.
+30,120,80,7.9,101.0,76,high risk,0,2,-0.23522025655872522,0.7384646277001086,Engage in regular physical activity and manage stress levels.
+55,140,100,18.0,98.0,90,high risk,2,1,3.8420092582882743,2.2805839385022337,Monitor blood pressure regularly and reduce sodium intake.
+32,140,100,7.9,98.0,78,high risk,1,0,1.7619630574720035,-0.2786708037060107,Maintain regular check-ups and a balanced diet.
+30,140,100,15.0,98.0,70,high risk,2,1,2.59515728645114,-0.3307396110952202,Monitor blood pressure regularly and reduce sodium intake.
+48,120,80,11.0,98.0,88,high risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+49,140,90,15.0,98.0,90,high risk,2,1,2.8834200807054007,1.970609865853333,Monitor blood pressure regularly and reduce sodium intake.
+25,140,100,7.5,98.0,80,high risk,1,0,1.488559803005959,-0.21454114566181545,Maintain regular check-ups and a balanced diet.
+40,160,100,19.0,98.0,77,high risk,2,1,4.029177336606539,0.7927581072575517,Monitor blood pressure regularly and reduce sodium intake.
+32,140,90,18.0,98.0,88,high risk,2,1,2.7158109648258315,1.877081192044558,Monitor blood pressure regularly and reduce sodium intake.
+35,140,100,7.5,98.0,66,high risk,1,0,1.7776495334877624,-1.4642977642843622,Maintain regular check-ups and a balanced diet.
+54,140,100,15.0,98.0,66,high risk,2,1,3.362344086425743,-0.41637618093810236,Monitor blood pressure regularly and reduce sodium intake.
+55,140,95,19.0,98.0,77,high risk,2,1,3.750791426966818,1.152409639690863,Monitor blood pressure regularly and reduce sodium intake.
+29,120,70,9.0,98.0,80,high risk,1,1,0.10660462232286089,0.3863224817263477,Monitor blood pressure regularly and reduce sodium intake.
+48,120,80,11.0,98.0,88,high risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+40,160,100,19.0,98.0,77,high risk,2,1,4.029177336606539,0.7927581072575517,Monitor blood pressure regularly and reduce sodium intake.
+32,140,90,18.0,98.0,88,high risk,2,1,2.7158109648258315,1.877081192044558,Monitor blood pressure regularly and reduce sodium intake.
+35,140,100,7.5,98.0,66,high risk,1,0,1.7776495334877624,-1.4642977642843622,Maintain regular check-ups and a balanced diet.
+54,140,100,15.0,98.0,66,high risk,2,1,3.362344086425743,-0.41637618093810236,Monitor blood pressure regularly and reduce sodium intake.
+40,120,95,11.0,98.0,80,high risk,2,1,1.6626020529948646,0.5203082004277353,Monitor blood pressure regularly and reduce sodium intake.
+22,90,60,7.5,102.0,60,high risk,0,2,-2.401918570158238,-0.30749257097555144,Engage in regular physical activity and manage stress levels.
+40,120,85,15.0,98.0,60,high risk,2,1,1.7535693578538685,-0.9310107043347241,Monitor blood pressure regularly and reduce sodium intake.
+55,140,95,19.0,98.0,77,high risk,2,1,3.750791426966818,1.152409639690863,Monitor blood pressure regularly and reduce sodium intake.
+50,130,100,16.0,98.0,75,high risk,2,1,3.096493434615636,0.5867924401099983,Monitor blood pressure regularly and reduce sodium intake.
+18,120,80,6.9,102.0,76,mid risk,0,2,-0.9525748760245746,0.7904167555248677,Engage in regular physical activity and manage stress levels.
+32,140,100,6.9,98.0,78,high risk,1,0,1.6326978690066816,-0.3858701790363648,Maintain regular check-ups and a balanced diet.
+17,90,60,6.9,101.0,76,mid risk,0,2,-2.402175161798623,0.8258023274700068,Engage in regular physical activity and manage stress levels.
+17,90,63,6.9,101.0,70,mid risk,0,2,-2.3040923082404814,0.20857536489602213,Engage in regular physical activity and manage stress levels.
+25,120,90,6.7,101.0,80,mid risk,0,2,-0.16580149614560494,0.8507348142671337,Engage in regular physical activity and manage stress levels.
+17,120,80,6.7,102.0,76,mid risk,0,2,-1.0108071578991162,0.7561386558078177,Engage in regular physical activity and manage stress levels.
+14,90,65,7.0,101.0,70,high risk,0,2,-2.312999892518772,0.16304994822651264,Engage in regular physical activity and manage stress levels.
+15,80,60,6.7,98.0,80,low risk,0,0,-2.1721638744118166,0.29418509869007264,Maintain regular check-ups and a balanced diet.
+15,100,65,6.7,98.0,76,low risk,0,0,-1.4180043624307856,-0.2666470254449336,Maintain regular check-ups and a balanced diet.
+12,95,60,6.7,98.0,77,low risk,0,0,-1.8448762781322414,-0.13170864289610582,Maintain regular check-ups and a balanced diet.
+37,120,90,11.0,98.0,88,high risk,2,1,1.397035367663107,1.313628150031581,Monitor blood pressure regularly and reduce sodium intake.
+18,100,70,6.7,98.0,76,low risk,0,0,-1.1326075563373321,-0.27245905211601434,Maintain regular check-ups and a balanced diet.
+21,100,85,6.7,98.0,70,low risk,1,0,-0.4855651937171062,-0.9575554222347055,Maintain regular check-ups and a balanced diet.
+17,110,75,12.0,101.0,76,high risk,0,2,-0.6023299811655578,1.1167875777381522,Engage in regular physical activity and manage stress levels.
+25,120,90,7.5,98.0,80,low risk,1,0,0.5362261570950582,-0.0031362823691732703,Maintain regular check-ups and a balanced diet.
+23,85,65,7.5,98.0,70,low risk,0,0,-1.5022924728876252,-0.5767490736389365,Maintain regular check-ups and a balanced diet.
+12,95,60,7.5,98.0,65,low risk,0,0,-1.7712093085025278,-1.22721102703097,Maintain regular check-ups and a balanced diet.
+28,120,90,7.5,98.0,70,low risk,1,0,0.6085762386873695,-0.9490065120821919,Maintain regular check-ups and a balanced diet.
+40,120,90,12.0,98.0,80,high risk,2,1,1.6036081679111645,0.6718342763821077,Monitor blood pressure regularly and reduce sodium intake.
+55,129,85,7.5,98.0,88,low risk,1,1,1.5982915042178312,1.1586069227969127,Monitor blood pressure regularly and reduce sodium intake.
+25,100,90,7.5,98.0,76,low risk,1,0,-0.049504402098646,-0.2741387817909501,Maintain regular check-ups and a balanced diet.
+35,120,80,7.5,98.0,80,low risk,1,0,0.48350045181178497,0.2138993653886551,Maintain regular check-ups and a balanced diet.
+21,90,65,7.5,98.0,76,low risk,0,0,-1.4082244959760934,-0.04248244625247255,Maintain regular check-ups and a balanced diet.
+18,90,60,7.5,98.0,70,low risk,0,0,-1.7084938926408193,-0.6273013617809655,Maintain regular check-ups and a balanced diet.
+21,120,80,7.5,98.0,76,low risk,1,0,0.02027597289025729,-0.3595897411914358,Maintain regular check-ups and a balanced diet.
+16,100,70,7.2,98.0,80,low risk,0,0,-1.1228183900867776,0.14921814771358669,Maintain regular check-ups and a balanced diet.
+19,120,75,7.2,98.0,66,low risk,1,0,-0.2963087965134358,-1.357484206134438,Maintain regular check-ups and a balanced diet.
+40,160,100,19.0,98.0,77,high risk,2,1,4.029177336606539,0.7927581072575517,Monitor blood pressure regularly and reduce sodium intake.
+32,140,90,18.0,98.0,88,high risk,2,1,2.7158109648258315,1.877081192044558,Monitor blood pressure regularly and reduce sodium intake.
+22,100,65,7.2,98.0,70,low risk,0,0,-1.1415896494990572,-0.7138107074224761,Maintain regular check-ups and a balanced diet.
+49,120,90,7.2,98.0,77,low risk,1,1,1.2671121656252768,-0.022494174444566077,Monitor blood pressure regularly and reduce sodium intake.
+28,90,60,7.2,98.0,82,low risk,0,0,-1.3937358262231008,0.6501829565288675,Maintain regular check-ups and a balanced diet.
+12,90,60,7.9,102.0,66,high risk,0,2,-2.6591323460156087,0.19763587484637232,Engage in regular physical activity and manage stress levels.
+20,100,90,7.1,98.0,88,low risk,1,0,-0.23336151724961648,0.8000522292211597,Maintain regular check-ups and a balanced diet.
+23,100,85,7.1,98.0,66,low risk,1,0,-0.3790156903488712,-1.282753184266988,Maintain regular check-ups and a balanced diet.
+22,120,90,7.1,98.0,82,low risk,1,0,0.39233987935492187,0.11234627427893874,Maintain regular check-ups and a balanced diet.
+21,120,80,7.1,98.0,77,low risk,1,0,-0.0289513374006596,-0.30403100095698193,Maintain regular check-ups and a balanced diet.
+35,140,100,8.0,98.0,66,high risk,1,0,1.8422821277204233,-1.4106980766191852,Maintain regular check-ups and a balanced diet.
+54,140,100,15.0,98.0,66,high risk,2,1,3.362344086425743,-0.41637618093810236,Monitor blood pressure regularly and reduce sodium intake.
+40,120,95,11.0,98.0,80,high risk,2,1,1.6626020529948646,0.5203082004277353,Monitor blood pressure regularly and reduce sodium intake.
+21,75,50,6.1,98.0,70,low risk,0,0,-2.600707195155525,-0.558148815509033,Maintain regular check-ups and a balanced diet.
+12,95,60,6.1,102.0,60,low risk,0,2,-2.7627284011212465,-0.6166418084589903,Engage in regular physical activity and manage stress levels.
+60,120,85,15.0,98.0,60,high risk,2,1,2.401154241483411,-0.6742462113151405,Monitor blood pressure regularly and reduce sodium intake.
+55,140,95,19.0,98.0,77,high risk,2,1,3.750791426966818,1.152409639690863,Monitor blood pressure regularly and reduce sodium intake.
+50,130,100,16.0,98.0,75,high risk,2,1,3.096493434615636,0.5867924401099983,Monitor blood pressure regularly and reduce sodium intake.
+60,120,80,6.1,98.0,75,low risk,1,1,1.0996164670212023,-0.10741659563233932,Monitor blood pressure regularly and reduce sodium intake.
+55,100,65,6.1,98.0,66,low risk,1,1,-0.22518135920301416,-0.8018225682699353,Monitor blood pressure regularly and reduce sodium intake.
+45,120,95,6.1,98.0,66,low risk,1,1,1.1563961390892044,-1.3189164805684424,Monitor blood pressure regularly and reduce sodium intake.
+35,100,70,6.1,98.0,66,low risk,1,0,-0.6845071692835345,-1.102913761913537,Maintain regular check-ups and a balanced diet.
+22,120,85,6.1,98.0,88,low risk,1,0,0.08968820791184963,0.6401045417721767,Maintain regular check-ups and a balanced diet.
+13,90,65,7.9,101.0,80,mid risk,0,2,-2.2042528161293395,1.2310760650388084,Engage in regular physical activity and manage stress levels.
+23,120,90,6.1,98.0,60,low risk,1,0,0.24092110297641314,-2.1476616644655397,Maintain regular check-ups and a balanced diet.
+17,90,65,6.1,103.0,67,high risk,0,2,-2.73871412652437,0.4361901112160714,Engage in regular physical activity and manage stress levels.
+28,83,60,8.0,101.0,86,high risk,0,2,-2.0805595421229,2.112290026875735,Engage in regular physical activity and manage stress levels.
+50,120,80,15.0,98.0,70,high risk,2,1,1.9138903770717375,0.22608314646504213,Monitor blood pressure regularly and reduce sodium intake.
+25,90,70,6.1,98.0,80,low risk,0,0,-1.2615046491717656,0.20821858773131255,Maintain regular check-ups and a balanced diet.
+30,120,80,6.1,98.0,70,low risk,1,0,0.11584531610082854,-0.9847557869946927,Maintain regular check-ups and a balanced diet.
+31,120,60,6.1,98.0,76,mid risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+23,120,90,6.1,98.0,70,low risk,1,0,0.2657087539285331,-1.1632767607995833,Maintain regular check-ups and a balanced diet.
+29,130,70,6.1,98.0,78,mid risk,1,0,0.014685794989430965,-0.18280841848717308,Maintain regular check-ups and a balanced diet.
+17,85,60,9.0,102.0,86,high risk,0,2,-2.4494229905953424,2.379203983807721,Engage in regular physical activity and manage stress levels.
+32,120,90,7.5,98.0,70,low risk,1,0,0.7380932154132781,-0.8976536134782752,Maintain regular check-ups and a balanced diet.
+42,120,80,7.5,98.0,70,low risk,1,0,0.6853675101300049,-0.6806179657204467,Maintain regular check-ups and a balanced diet.
+23,90,60,7.5,98.0,76,low risk,0,0,-1.5317250811621614,0.027520703673504093,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+15,76,49,7.5,98.0,77,low risk,0,0,-2.6055210804956146,0.20669816163633042,Maintain regular check-ups and a balanced diet.
+33,120,75,10.0,98.0,70,high risk,1,1,0.5288582101109937,-0.48383684862935594,Monitor blood pressure regularly and reduce sodium intake.
+48,120,80,11.0,98.0,88,high risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+15,120,80,7.0,98.0,70,low risk,1,0,-0.2535046770025385,-1.0808497189620616,Maintain regular check-ups and a balanced diet.
+25,120,80,7.0,98.0,66,low risk,1,0,0.06037270443138481,-1.3462214339186522,Maintain regular check-ups and a balanced diet.
+22,100,65,7.0,98.0,80,low risk,0,0,-1.1426550362400014,0.24913432117740922,Maintain regular check-ups and a balanced diet.
+50,140,95,17.0,98.0,60,high risk,2,1,3.2882258225101846,-0.7996345704568664,Monitor blood pressure regularly and reduce sodium intake.
+35,100,70,7.0,98.0,60,low risk,1,0,-0.5830410902360166,-1.597065266315792,Maintain regular check-ups and a balanced diet.
+19,120,85,7.0,98.0,60,low risk,1,0,0.03948372232027233,-2.0582084246481194,Maintain regular check-ups and a balanced diet.
+60,90,65,7.0,98.0,77,low risk,1,1,-0.20758780203593483,0.5030471178371339,Monitor blood pressure regularly and reduce sodium intake.
+28,85,60,9.0,101.0,86,mid risk,0,2,-1.8937128037762925,2.207214256001629,Engage in regular physical activity and manage stress levels.
+50,140,80,6.7,98.0,70,mid risk,1,0,1.4168048116224208,-0.7864231308215022,Maintain regular check-ups and a balanced diet.
+29,90,70,6.7,98.0,80,mid risk,0,0,-1.054428559366664,0.32389111153344174,Maintain regular check-ups and a balanced diet.
+30,140,100,15.0,98.0,70,high risk,2,1,2.59515728645114,-0.3307396110952202,Monitor blood pressure regularly and reduce sodium intake.
+31,120,60,6.1,98.0,76,mid risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+23,120,90,6.7,98.0,70,low risk,1,0,0.34326786700772643,-1.098957135601371,Maintain regular check-ups and a balanced diet.
+29,130,70,6.7,98.0,78,mid risk,1,0,0.09224490806862429,-0.11848879328896061,Maintain regular check-ups and a balanced diet.
+17,85,60,9.0,102.0,86,mid risk,0,2,-2.4494229905953424,2.379203983807721,Engage in regular physical activity and manage stress levels.
+32,120,90,6.4,98.0,70,low risk,1,0,0.595901508101424,-1.0155729263416646,Maintain regular check-ups and a balanced diet.
+42,120,80,6.4,98.0,70,low risk,1,0,0.5431758028181507,-0.7985372785838363,Maintain regular check-ups and a balanced diet.
+23,90,60,6.4,98.0,76,low risk,0,0,-1.6739167884740158,-0.09039860918988538,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+15,76,49,6.4,98.0,77,low risk,0,0,-2.747712787807469,0.08877884877294093,Maintain regular check-ups and a balanced diet.
+29,120,75,7.2,100.0,70,high risk,0,2,-0.36167829596342016,-0.20892760022453724,Engage in regular physical activity and manage stress levels.
+48,120,80,11.0,98.0,88,high risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+15,120,80,7.2,98.0,70,low risk,1,0,-0.22765163930947407,-1.0594098438959907,Maintain regular check-ups and a balanced diet.
+50,140,90,15.0,98.0,77,high risk,2,1,2.8835753786491223,0.7037477157385692,Monitor blood pressure regularly and reduce sodium intake.
+25,140,100,7.2,98.0,80,high risk,1,0,1.4497802464663623,-0.24670095826092162,Maintain regular check-ups and a balanced diet.
+55,140,80,7.2,101.0,76,high risk,0,2,1.0595907148653336,0.8616292191987346,Engage in regular physical activity and manage stress levels.
+20,110,60,7.0,100.0,70,mid risk,0,2,-1.5316295013432737,-0.15155566425506295,Engage in regular physical activity and manage stress levels.
+40,140,100,18.0,98.0,77,high risk,2,1,3.3240966493283617,0.8083101939718033,Monitor blood pressure regularly and reduce sodium intake.
+28,120,80,9.0,102.0,76,high risk,0,2,-0.35732553843262715,1.1439176902284032,Engage in regular physical activity and manage stress levels.
+32,140,100,8.0,98.0,70,high risk,1,0,1.7550594555568397,-1.0554587891057403,Maintain regular check-ups and a balanced diet.
+17,90,60,11.0,101.0,78,high risk,0,2,-1.867230358900379,1.4621967470576498,Engage in regular physical activity and manage stress levels.
+17,90,63,8.0,101.0,70,high risk,0,2,-2.1619006009286275,0.32649467775941154,Engage in regular physical activity and manage stress levels.
+25,120,90,12.0,101.0,80,high risk,0,2,0.5193040027206018,1.4188915035180103,Engage in regular physical activity and manage stress levels.
+17,120,80,7.0,102.0,76,high risk,0,2,-0.9720276013595196,0.788298468406924,Engage in regular physical activity and manage stress levels.
+19,90,65,11.0,101.0,70,high risk,0,2,-1.6340429177500984,0.6560385728028247,Engage in regular physical activity and manage stress levels.
+15,80,60,7.0,98.0,80,low risk,0,0,-2.13338431787222,0.32634491128917886,Maintain regular check-ups and a balanced diet.
+32,120,65,6.0,101.0,76,mid risk,0,2,-0.9808428469269497,0.6934423657464491,Engage in regular physical activity and manage stress levels.
+12,95,60,7.2,98.0,77,low risk,0,0,-1.7802436838995805,-0.07810895523092881,Maintain regular check-ups and a balanced diet.
+37,120,90,11.0,98.0,88,high risk,2,1,1.397035367663107,1.313628150031581,Monitor blood pressure regularly and reduce sodium intake.
+18,100,70,6.8,98.0,76,low risk,0,0,-1.1196810374908,-0.261739114582979,Maintain regular check-ups and a balanced diet.
+21,100,85,6.9,98.0,70,low risk,1,0,-0.45971215602404186,-0.9361155471686347,Maintain regular check-ups and a balanced diet.
+17,110,75,13.0,101.0,76,high risk,0,2,-0.4730647927002357,1.2239869530685061,Engage in regular physical activity and manage stress levels.
+25,120,90,15.0,98.0,80,high risk,2,1,1.5057150705849738,0.8008590326084822,Monitor blood pressure regularly and reduce sodium intake.
+10,85,65,6.9,98.0,70,low risk,0,0,-2.000781760326021,-0.8079656192998782,Maintain regular check-ups and a balanced diet.
+12,95,60,6.9,98.0,65,low risk,0,0,-1.848768421581721,-1.2915306522291823,Maintain regular check-ups and a balanced diet.
+28,120,90,6.9,98.0,70,low risk,1,0,0.5310171256081764,-1.0133261372804043,Maintain regular check-ups and a balanced diet.
+40,120,90,6.9,98.0,80,low risk,1,0,0.944355706738022,0.125117462197302,Maintain regular check-ups and a balanced diet.
+55,110,85,6.9,98.0,88,low risk,1,1,0.9737076672664242,1.2109011865410755,Monitor blood pressure regularly and reduce sodium intake.
+25,100,90,6.9,98.0,76,low risk,1,0,-0.12706351517783918,-0.33845840698916246,Maintain regular check-ups and a balanced diet.
+35,120,80,6.9,98.0,80,low risk,1,0,0.4059413387325918,0.14957974019044265,Maintain regular check-ups and a balanced diet.
+21,90,65,6.9,98.0,76,low risk,0,0,-1.4857836090552867,-0.10680207145068496,Maintain regular check-ups and a balanced diet.
+18,90,60,6.9,98.0,70,low risk,0,0,-1.7860530057200126,-0.6916209869791778,Maintain regular check-ups and a balanced diet.
+21,120,80,6.9,98.0,76,low risk,1,0,-0.05728314018893589,-0.4239093663896482,Maintain regular check-ups and a balanced diet.
+16,100,70,6.9,98.0,80,low risk,0,0,-1.1615979466263742,0.11705833511448045,Maintain regular check-ups and a balanced diet.
+19,120,75,6.9,98.0,66,low risk,1,0,-0.33508835305303236,-1.3896440187335444,Maintain regular check-ups and a balanced diet.
+40,160,100,19.0,98.0,77,high risk,2,1,4.029177336606539,0.7927581072575517,Monitor blood pressure regularly and reduce sodium intake.
+32,140,90,18.0,98.0,88,high risk,2,1,2.7158109648258315,1.877081192044558,Monitor blood pressure regularly and reduce sodium intake.
+22,100,65,6.9,98.0,70,low risk,0,0,-1.1803692060386537,-0.7459705200215823,Maintain regular check-ups and a balanced diet.
+49,120,90,6.9,98.0,77,low risk,1,1,1.2283326090856803,-0.05465398704367225,Monitor blood pressure regularly and reduce sodium intake.
+28,90,60,6.9,98.0,82,low risk,0,0,-1.4325153827626973,0.6180231439297612,Maintain regular check-ups and a balanced diet.
+12,90,60,8.0,102.0,66,high risk,0,2,-2.6462058271690765,0.20835581237940767,Engage in regular physical activity and manage stress levels.
+20,100,90,7.0,98.0,88,low risk,1,0,-0.2462880360961486,0.7893322916881244,Maintain regular check-ups and a balanced diet.
+23,100,85,7.0,98.0,66,low risk,1,0,-0.3919422091954034,-1.2934731218000233,Maintain regular check-ups and a balanced diet.
+22,120,90,7.0,98.0,82,low risk,1,0,0.37941336050838975,0.10162633674590339,Maintain regular check-ups and a balanced diet.
+21,120,80,7.0,98.0,77,low risk,1,0,-0.041877856247191744,-0.3147509384900173,Maintain regular check-ups and a balanced diet.
+35,140,100,9.0,98.0,66,high risk,1,1,1.9715473161857455,-1.303498701288831,Monitor blood pressure regularly and reduce sodium intake.
+54,140,100,15.0,98.0,66,high risk,2,1,3.362344086425743,-0.41637618093810236,Monitor blood pressure regularly and reduce sodium intake.
+40,120,95,11.0,98.0,80,high risk,2,1,1.6626020529948646,0.5203082004277353,Monitor blood pressure regularly and reduce sodium intake.
+21,75,50,7.7,98.0,60,low risk,0,0,-2.41867054456313,-1.3710147186464225,Maintain regular check-ups and a balanced diet.
+12,90,60,11.0,102.0,60,high risk,0,2,-2.273282852344382,-0.060677003829103834,Engage in regular physical activity and manage stress levels.
+60,120,85,15.0,98.0,60,high risk,2,1,2.401154241483411,-0.6742462113151405,Monitor blood pressure regularly and reduce sodium intake.
+55,140,95,19.0,98.0,77,high risk,2,1,3.750791426966818,1.152409639690863,Monitor blood pressure regularly and reduce sodium intake.
+50,130,100,16.0,98.0,76,high risk,2,1,3.098972199710848,0.6852309304765939,Monitor blood pressure regularly and reduce sodium intake.
+60,120,80,7.7,98.0,75,low risk,1,1,1.3064407685657178,0.06410240489622723,Monitor blood pressure regularly and reduce sodium intake.
+55,100,65,7.7,98.0,66,low risk,1,1,-0.01835705765849884,-0.6303035677413686,Monitor blood pressure regularly and reduce sodium intake.
+45,120,95,7.7,98.0,66,low risk,1,1,1.3632204406337196,-1.1473974800398756,Monitor blood pressure regularly and reduce sodium intake.
+35,100,70,7.7,98.0,66,low risk,1,0,-0.4776828677390191,-0.9313947613849705,Maintain regular check-ups and a balanced diet.
+22,120,85,7.7,98.0,88,low risk,1,0,0.296512509456365,0.8116235423007432,Maintain regular check-ups and a balanced diet.
+13,90,65,9.0,101.0,80,high risk,0,2,-2.062061108817485,1.3489953779021977,Engage in regular physical activity and manage stress levels.
+23,120,90,7.7,98.0,60,low risk,1,0,0.44774540452092854,-1.976142663936973,Maintain regular check-ups and a balanced diet.
+17,90,65,7.7,103.0,67,high risk,0,2,-2.5318898249798547,0.607709111744638,Engage in regular physical activity and manage stress levels.
+26,85,60,6.0,101.0,86,mid risk,0,2,-2.3462668575352126,1.8599396807086084,Engage in regular physical activity and manage stress levels.
+50,120,80,7.7,98.0,70,low risk,1,1,0.9702545012748864,-0.5564722934465426,Monitor blood pressure regularly and reduce sodium intake.
+19,90,70,7.7,98.0,80,low risk,0,0,-1.2489558127161131,0.30270824035400407,Maintain regular check-ups and a balanced diet.
+30,120,80,7.7,98.0,70,low risk,1,0,0.3226696176453439,-0.8132367864661261,Maintain regular check-ups and a balanced diet.
+31,120,60,6.1,98.0,76,low risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+23,120,80,7.7,98.0,70,low risk,1,0,0.09601490837500402,-0.9031043590229804,Maintain regular check-ups and a balanced diet.
+29,130,70,7.7,98.0,78,mid risk,1,0,0.2215100965339463,-0.011289417958606548,Maintain regular check-ups and a balanced diet.
+17,85,60,6.3,102.0,86,high risk,0,2,-2.7984389994517125,2.0897656704157654,Engage in regular physical activity and manage stress levels.
+32,120,90,7.7,98.0,70,low risk,1,0,0.7639462531063426,-0.8762137384122043,Maintain regular check-ups and a balanced diet.
+42,120,80,7.7,98.0,70,low risk,1,0,0.7112205478230693,-0.6591780906543759,Maintain regular check-ups and a balanced diet.
+23,90,60,7.7,98.0,76,low risk,0,0,-1.505872043469097,0.048960578739574906,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+15,75,49,7.7,98.0,77,low risk,0,0,-2.608458817743193,0.23427560980463152,Maintain regular check-ups and a balanced diet.
+40,120,75,7.7,98.0,70,high risk,1,0,0.458202985911093,-0.640527839332316,Maintain regular check-ups and a balanced diet.
+48,120,80,11.0,98.0,88,high risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+15,120,80,7.7,98.0,70,low risk,1,0,-0.16301904507681303,-1.0058101562308137,Maintain regular check-ups and a balanced diet.
+25,120,80,7.7,98.0,66,low risk,1,0,0.15085833635711027,-1.2711818711874043,Maintain regular check-ups and a balanced diet.
+22,100,65,6.9,98.0,80,low risk,0,0,-1.1555815550865336,0.2384143836443738,Maintain regular check-ups and a balanced diet.
+12,120,95,6.9,98.0,60,low risk,1,0,0.17642064130144477,-2.2474493359860457,Maintain regular check-ups and a balanced diet.
+35,100,70,6.9,98.0,60,low risk,1,0,-0.5959676090825488,-1.6077852038488274,Maintain regular check-ups and a balanced diet.
+19,120,85,6.9,98.0,60,low risk,1,0,0.026557203473740163,-2.068928362181155,Maintain regular check-ups and a balanced diet.
+60,90,65,6.9,98.0,77,low risk,1,1,-0.22051432088246695,0.4923271803040985,Monitor blood pressure regularly and reduce sodium intake.
+55,120,90,6.9,98.0,76,low risk,1,1,1.4201293090793308,-0.07606312950439284,Monitor blood pressure regularly and reduce sodium intake.
+35,90,65,6.9,98.0,75,low risk,0,0,-1.0349529556098191,-0.025505416703572096,Maintain regular check-ups and a balanced diet.
+51,85,60,6.9,98.0,66,low risk,1,1,-0.8714068828153292,-0.631025669452096,Monitor blood pressure regularly and reduce sodium intake.
+62,120,80,6.9,98.0,66,low risk,1,1,1.2454782202995065,-0.8819270593654581,Monitor blood pressure regularly and reduce sodium intake.
+25,90,70,6.9,98.0,66,low risk,0,0,-1.1927952097324759,-1.0841607771367425,Maintain regular check-ups and a balanced diet.
+21,120,80,6.9,98.0,88,low risk,1,0,-0.02753795904639196,0.7573525180094991,Maintain regular check-ups and a balanced diet.
+22,120,60,15.0,98.0,80,high risk,2,1,0.2790228967464089,1.0283045623996545,Monitor blood pressure regularly and reduce sodium intake.
+55,120,90,18.0,98.0,60,high risk,2,1,2.8153126595210134,-0.46116590920299244,Monitor blood pressure regularly and reduce sodium intake.
+54,130,70,12.0,98.0,67,mid risk,2,1,1.5595650954244271,-0.31219988179615643,Monitor blood pressure regularly and reduce sodium intake.
+35,85,60,19.0,98.0,86,high risk,2,1,0.22420929261567354,2.4294449849614335,Monitor blood pressure regularly and reduce sodium intake.
+43,120,90,18.0,98.0,70,high risk,2,1,2.4515493802954085,0.36916029865121347,Monitor blood pressure regularly and reduce sodium intake.
+12,120,80,6.9,98.0,80,low risk,1,0,-0.33878127744138203,-0.14569942678207834,Maintain regular check-ups and a balanced diet.
+65,90,60,6.9,98.0,70,low risk,1,1,-0.2642285291905876,-0.08822442838315676,Monitor blood pressure regularly and reduce sodium intake.
+60,120,80,6.9,98.0,76,low risk,1,1,1.2055073828886722,0.07678139499853961,Monitor blood pressure regularly and reduce sodium intake.
+25,120,90,6.9,98.0,70,low risk,1,0,0.43387939306374507,-1.0518408112333417,Maintain regular check-ups and a balanced diet.
+22,90,65,6.9,98.0,78,low risk,0,0,-1.4484468346833856,0.10291313393348545,Maintain regular check-ups and a balanced diet.
+66,85,60,6.9,98.0,86,low risk,1,1,-0.33614291818893244,1.5303175076445037,Monitor blood pressure regularly and reduce sodium intake.
+56,120,80,13.0,98.0,70,high risk,2,1,1.849635465229956,0.088713743710209,Monitor blood pressure regularly and reduce sodium intake.
+35,90,70,6.9,98.0,70,low risk,1,0,-0.8590877075368568,-0.5620245691605684,Maintain regular check-ups and a balanced diet.
+43,120,80,15.0,98.0,76,high risk,2,1,1.7021082583726697,0.7268465161077616,Monitor blood pressure regularly and reduce sodium intake.
+35,120,60,6.9,98.0,70,low risk,1,0,-0.371882606415617,-0.6574983609794403,Maintain regular check-ups and a balanced diet.
+44,120,90,16.0,98.0,80,mid risk,2,1,2.2501858984983607,1.1519846763074406,Monitor blood pressure regularly and reduce sodium intake.
+23,130,70,6.9,98.0,70,mid risk,1,0,-0.09600764008887,-0.9615861890615298,Maintain regular check-ups and a balanced diet.
+22,85,60,6.9,98.0,76,mid risk,0,0,-1.785617313126046,-0.018949280664536133,Maintain regular check-ups and a balanced diet.
+55,120,90,12.0,98.0,70,mid risk,2,1,2.064509179681201,-0.11997725751916084,Monitor blood pressure regularly and reduce sodium intake.
+35,120,80,6.9,98.0,78,mid risk,1,0,0.4009838085421678,-0.04729724054274853,Maintain regular check-ups and a balanced diet.
+21,90,60,6.9,98.0,86,mid risk,0,0,-1.649255031652189,0.9219095328392896,Maintain regular check-ups and a balanced diet.
+45,120,80,6.9,103.0,70,low risk,0,2,-0.29274637451876606,0.8596280778685953,Engage in regular physical activity and manage stress levels.
+70,85,60,6.9,102.0,70,low risk,0,2,-1.0444401862776234,1.2594953562503441,Engage in regular physical activity and manage stress levels.
+65,120,90,6.9,103.0,76,low risk,0,2,0.7462292467800927,1.618370111839716,Engage in regular physical activity and manage stress levels.
+55,120,80,6.9,102.0,80,low risk,0,2,0.255372219070927,1.6591850290774797,Engage in regular physical activity and manage stress levels.
+45,90,60,18.0,101.0,70,high risk,0,2,-0.07558532332346077,1.7845547416647807,Engage in regular physical activity and manage stress levels.
+22,120,80,6.9,103.0,76,low risk,0,2,-1.022596400121468,1.1549798530956479,Engage in regular physical activity and manage stress levels.
+16,90,65,6.9,98.0,76,mid risk,0,0,-1.6476798299626723,-0.17099319470558086,Maintain regular check-ups and a balanced diet.
+12,95,60,6.9,98.0,77,low risk,0,0,-1.819023240439177,-0.11026876783003503,Maintain regular check-ups and a balanced diet.
+37,120,90,11.0,98.0,88,high risk,2,1,1.397035367663107,1.313628150031581,Monitor blood pressure regularly and reduce sodium intake.
+18,100,70,6.9,98.0,76,low risk,0,0,-1.1067545186442678,-0.25101917704994353,Maintain regular check-ups and a balanced diet.
+21,100,85,6.9,98.0,70,low risk,1,0,-0.45971215602404186,-0.9361155471686347,Maintain regular check-ups and a balanced diet.
+17,110,75,6.9,101.0,76,high risk,0,2,-1.2615824423387,0.5700707635533463,Engage in regular physical activity and manage stress levels.
+25,120,90,6.9,98.0,80,low risk,1,0,0.458667044015865,-0.06745590756738572,Maintain regular check-ups and a balanced diet.
+33,115,65,7.0,98.0,70,mid risk,1,0,-0.37940937708623096,-0.6860937078612301,Maintain regular check-ups and a balanced diet.
+12,95,60,6.9,98.0,65,mid risk,0,0,-1.848768421581721,-1.2915306522291823,Maintain regular check-ups and a balanced diet.
+28,120,90,6.9,98.0,70,mid risk,1,0,0.5310171256081764,-1.0133261372804043,Maintain regular check-ups and a balanced diet.
+40,120,90,6.9,98.0,80,high risk,1,0,0.944355706738022,0.125117462197302,Maintain regular check-ups and a balanced diet.
+55,110,85,6.9,98.0,88,high risk,1,1,0.9737076672664242,1.2109011865410755,Monitor blood pressure regularly and reduce sodium intake.
+25,100,90,6.9,98.0,76,high risk,1,0,-0.12706351517783918,-0.33845840698916246,Maintain regular check-ups and a balanced diet.
+35,120,80,6.9,98.0,80,high risk,1,0,0.4059413387325918,0.14957974019044265,Maintain regular check-ups and a balanced diet.
+21,90,65,6.9,98.0,76,mid risk,0,0,-1.4857836090552867,-0.10680207145068496,Maintain regular check-ups and a balanced diet.
+18,90,60,6.9,98.0,70,mid risk,0,0,-1.7860530057200126,-0.6916209869791778,Maintain regular check-ups and a balanced diet.
+21,120,80,6.9,98.0,76,mid risk,1,0,-0.05728314018893589,-0.4239093663896482,Maintain regular check-ups and a balanced diet.
+16,100,70,6.9,98.0,80,mid risk,0,0,-1.1615979466263742,0.11705833511448045,Maintain regular check-ups and a balanced diet.
+19,120,75,6.9,98.0,66,mid risk,1,0,-0.33508835305303236,-1.3896440187335444,Maintain regular check-ups and a balanced diet.
+40,160,100,19.0,98.0,77,high risk,2,1,4.029177336606539,0.7927581072575517,Monitor blood pressure regularly and reduce sodium intake.
+32,140,90,18.0,98.0,88,high risk,2,1,2.7158109648258315,1.877081192044558,Monitor blood pressure regularly and reduce sodium intake.
+23,100,85,6.9,98.0,66,mid risk,1,0,-0.4048687280419356,-1.3041930593330586,Maintain regular check-ups and a balanced diet.
+22,120,90,7.8,98.0,82,mid risk,1,0,0.4828255112806473,0.18738583701018666,Maintain regular check-ups and a balanced diet.
+21,120,80,7.8,98.0,77,low risk,1,0,0.06153429452506588,-0.228991438225734,Maintain regular check-ups and a balanced diet.
+35,140,100,7.8,98.0,66,high risk,1,0,1.816429090027359,-1.432137951685256,Maintain regular check-ups and a balanced diet.
+54,140,100,15.0,98.0,66,high risk,2,1,3.362344086425743,-0.41637618093810236,Monitor blood pressure regularly and reduce sodium intake.
+40,120,95,11.0,98.0,80,high risk,2,1,1.6626020529948646,0.5203082004277353,Monitor blood pressure regularly and reduce sodium intake.
+21,75,50,7.8,98.0,60,low risk,0,0,-2.4057440257165976,-1.3602947811133872,Maintain regular check-ups and a balanced diet.
+12,90,60,7.8,102.0,60,high risk,0,2,-2.6869314554334127,-0.40371500488623685,Engage in regular physical activity and manage stress levels.
+60,120,85,15.0,98.0,60,mid risk,2,1,2.401154241483411,-0.6742462113151405,Monitor blood pressure regularly and reduce sodium intake.
+55,140,95,19.0,98.0,77,high risk,2,1,3.750791426966818,1.152409639690863,Monitor blood pressure regularly and reduce sodium intake.
+50,130,100,16.0,98.0,75,high risk,2,1,3.096493434615636,0.5867924401099983,Monitor blood pressure regularly and reduce sodium intake.
+60,120,80,7.8,98.0,75,high risk,1,1,1.31936728741225,0.07482234242926261,Monitor blood pressure regularly and reduce sodium intake.
+55,100,65,7.8,98.0,66,low risk,1,1,-0.0054305388119666904,-0.6195836302083333,Monitor blood pressure regularly and reduce sodium intake.
+45,120,95,7.8,98.0,66,low risk,1,1,1.3761469594802518,-1.1366775425068403,Monitor blood pressure regularly and reduce sodium intake.
+35,100,70,7.8,98.0,66,low risk,1,0,-0.4647563488924869,-0.9206748238519351,Maintain regular check-ups and a balanced diet.
+22,120,85,7.8,98.0,88,low risk,1,0,0.30943902830289716,0.8223434798337785,Maintain regular check-ups and a balanced diet.
+13,90,65,7.8,101.0,80,mid risk,0,2,-2.2171793349758717,1.2203561275057728,Engage in regular physical activity and manage stress levels.
+23,120,90,7.8,98.0,60,mid risk,1,0,0.46067192336746066,-1.9654227264039377,Maintain regular check-ups and a balanced diet.
+17,90,65,7.8,103.0,67,high risk,0,2,-2.5189633061333225,0.6184290492776734,Engage in regular physical activity and manage stress levels.
+28,115,60,7.8,101.0,86,mid risk,0,2,-1.1851077817153948,1.8944478125382958,Engage in regular physical activity and manage stress levels.
+50,120,80,7.8,98.0,70,mid risk,1,1,0.9831810201214186,-0.5457523559135072,Monitor blood pressure regularly and reduce sodium intake.
+19,90,70,7.8,98.0,80,low risk,0,0,-1.236029293869581,0.3134281778870394,Maintain regular check-ups and a balanced diet.
+30,120,80,7.8,98.0,70,low risk,1,0,0.3355961364918761,-0.8025168489330907,Maintain regular check-ups and a balanced diet.
+31,120,60,6.1,98.0,76,low risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+23,120,70,7.8,98.0,70,low risk,1,0,-0.2675767198765083,-0.8037310202419083,Maintain regular check-ups and a balanced diet.
+29,130,70,7.8,98.0,78,mid risk,1,0,0.23443661538047847,-0.0005694804255711417,Maintain regular check-ups and a balanced diet.
+17,85,69,7.8,102.0,86,high risk,0,2,-2.265674884365489,2.1707766722880635,Engage in regular physical activity and manage stress levels.
+32,120,90,7.8,98.0,70,low risk,1,0,0.7768727719528747,-0.8654938008791689,Maintain regular check-ups and a balanced diet.
+42,120,80,7.8,98.0,70,low risk,1,0,0.7241470666696015,-0.6484581531213406,Maintain regular check-ups and a balanced diet.
+23,90,60,7.8,98.0,76,low risk,0,0,-1.492945524622565,0.059680516272610284,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+15,76,49,7.8,98.0,77,low risk,0,0,-2.566741523956018,0.23885797423543662,Maintain regular check-ups and a balanced diet.
+20,120,75,7.8,98.0,70,low risk,1,0,-0.17645537887191742,-0.8865723948188642,Maintain regular check-ups and a balanced diet.
+48,120,80,11.0,98.0,88,high risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+15,120,80,7.8,98.0,70,low risk,1,0,-0.1500925262302809,-0.9950902186977784,Maintain regular check-ups and a balanced diet.
+25,120,80,7.8,98.0,66,low risk,1,0,0.16378485520364244,-1.260461933654369,Maintain regular check-ups and a balanced diet.
+22,100,65,7.8,98.0,80,low risk,0,0,-1.0392428854677438,0.33489382144169244,Maintain regular check-ups and a balanced diet.
+12,120,95,7.8,98.0,60,low risk,1,0,0.2927593109202346,-2.150969898188727,Maintain regular check-ups and a balanced diet.
+35,100,70,7.8,98.0,60,low risk,1,0,-0.47962893946375884,-1.5113057660515088,Maintain regular check-ups and a balanced diet.
+19,120,85,7.8,98.0,60,mid risk,1,0,0.14289587309252993,-1.9724489243838361,Maintain regular check-ups and a balanced diet.
+60,90,65,6.8,98.0,77,mid risk,1,1,-0.23344083972899923,0.48160724277106304,Monitor blood pressure regularly and reduce sodium intake.
+55,120,90,6.8,98.0,66,mid risk,1,1,1.3824151392806787,-1.0711679707033843,Monitor blood pressure regularly and reduce sodium intake.
+25,120,80,6.8,98.0,66,mid risk,1,0,0.03451966673832039,-1.367661308984723,Maintain regular check-ups and a balanced diet.
+22,100,65,6.8,98.0,88,low risk,0,0,-1.1486779531713698,1.0152023690441032,Maintain regular check-ups and a balanced diet.
+12,120,95,6.8,98.0,60,mid risk,1,0,0.16349412245491252,-2.258169273519081,Maintain regular check-ups and a balanced diet.
+35,100,70,6.8,98.0,60,mid risk,1,0,-0.608894127929081,-1.618505141381863,Maintain regular check-ups and a balanced diet.
+19,120,90,6.8,98.0,60,mid risk,1,0,0.20188975817623012,-2.1239750003382083,Maintain regular check-ups and a balanced diet.
+60,90,65,6.8,98.0,77,mid risk,1,1,-0.23344083972899923,0.48160724277106304,Monitor blood pressure regularly and reduce sodium intake.
+55,120,90,6.8,98.0,78,low risk,1,1,1.4121603204232225,0.11009391369576293,Monitor blood pressure regularly and reduce sodium intake.
+50,130,80,16.0,102.0,76,mid risk,0,2,1.5477819022235522,2.115378528840121,Engage in regular physical activity and manage stress levels.
+27,120,90,6.8,102.0,68,mid risk,0,2,-0.3174001709014643,0.019079515669843422,Engage in regular physical activity and manage stress levels.
+60,140,90,12.0,98.0,77,high risk,2,1,2.819572255067927,0.5105318362572988,Monitor blood pressure regularly and reduce sodium intake.
+55,100,70,6.8,101.0,80,mid risk,0,2,-0.5103494448637041,1.546659755870223,Engage in regular physical activity and manage stress levels.
+60,140,80,16.0,98.0,66,high risk,2,1,2.9328484457838386,-0.0548406552058,Monitor blood pressure regularly and reduce sodium intake.
+12,120,90,6.8,98.0,80,mid risk,1,0,0.024810350810130135,-0.24507276556315036,Maintain regular check-ups and a balanced diet.
+17,140,100,6.8,103.0,80,high risk,0,2,0.14134771351440728,1.1737644892334202,Engage in regular physical activity and manage stress levels.
+60,120,80,6.8,98.0,77,mid risk,1,1,1.195059629137352,0.16449994783209979,Monitor blood pressure regularly and reduce sodium intake.
+22,100,65,6.8,98.0,88,low risk,0,0,-1.1486779531713698,1.0152023690441032,Maintain regular check-ups and a balanced diet.
+36,140,100,6.8,102.0,76,high risk,0,2,0.9461767934044266,0.7107265971687787,Engage in regular physical activity and manage stress levels.
+22,90,60,6.8,98.0,77,low risk,0,0,-1.652111192174152,0.03808140665787266,Maintain regular check-ups and a balanced diet.
+25,120,100,6.8,98.0,60,mid risk,1,0,0.7726833703631373,-2.13559905368037,Maintain regular check-ups and a balanced diet.
+35,100,60,15.0,98.0,80,high risk,2,1,0.12413757229275535,1.3179529449069893,Monitor blood pressure regularly and reduce sodium intake.
+40,140,100,13.0,101.0,66,high risk,0,2,2.0518887884860133,0.12912052018807127,Engage in regular physical activity and manage stress levels.
+27,120,70,6.8,98.0,77,low risk,1,0,-0.2499735759494379,-0.1705080644021764,Maintain regular check-ups and a balanced diet.
+36,140,100,6.8,102.0,76,high risk,0,2,0.9461767934044266,0.7107265971687787,Engage in regular physical activity and manage stress levels.
+22,90,60,6.8,98.0,77,mid risk,0,0,-1.652111192174152,0.03808140665787266,Maintain regular check-ups and a balanced diet.
+25,120,100,6.8,98.0,60,low risk,1,0,0.7726833703631373,-2.13559905368037,Maintain regular check-ups and a balanced diet.
+35,100,60,15.0,98.0,80,high risk,2,1,0.12413757229275535,1.3179529449069893,Monitor blood pressure regularly and reduce sodium intake.
+40,140,100,13.0,101.0,66,high risk,0,2,2.0518887884860133,0.12912052018807127,Engage in regular physical activity and manage stress levels.
+27,120,70,6.8,98.0,77,low risk,1,0,-0.2499735759494379,-0.1705080644021764,Maintain regular check-ups and a balanced diet.
+27,120,70,6.8,98.0,77,low risk,1,0,-0.2499735759494379,-0.1705080644021764,Maintain regular check-ups and a balanced diet.
+65,130,80,15.0,98.0,86,high risk,2,1,2.7271470307237142,1.9322966310729568,Monitor blood pressure regularly and reduce sodium intake.
+35,140,80,13.0,98.0,70,high risk,2,1,1.7454868362317926,-0.30364043600495927,Monitor blood pressure regularly and reduce sodium intake.
+29,90,70,10.0,98.0,80,high risk,0,1,-0.6278534374311013,0.6776490501236101,Monitor blood pressure regularly and reduce sodium intake.
+30,120,80,6.8,98.0,70,mid risk,1,0,0.20633094802655402,-0.9097162242634448,Maintain regular check-ups and a balanced diet.
+35,120,60,6.1,98.0,76,mid risk,1,0,-0.46042216661660273,-0.1526269190441499,Maintain regular check-ups and a balanced diet.
+23,140,90,6.8,98.0,70,high risk,1,0,0.9320098846671147,-1.2109886601129412,Maintain regular check-ups and a balanced diet.
+23,130,70,6.8,98.0,78,mid risk,1,0,-0.08910403817370631,-0.1847982036618002,Maintain regular check-ups and a balanced diet.
+35,85,60,11.0,102.0,86,high risk,0,2,-1.6080662183981103,2.8246907781860546,Engage in regular physical activity and manage stress levels.
+32,120,90,6.8,98.0,70,low risk,1,0,0.6476075834875527,-0.972693176209523,Maintain regular check-ups and a balanced diet.
+43,130,80,18.0,98.0,70,mid risk,2,1,2.362938982603792,0.3964379688769475,Monitor blood pressure regularly and reduce sodium intake.
+23,99,60,6.8,98.0,76,low risk,0,0,-1.3630937386221016,-0.10275701697781628,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+15,76,49,6.8,98.0,77,low risk,0,0,-2.6960067124213403,0.13165859890508258,Maintain regular check-ups and a balanced diet.
+30,120,75,6.8,98.0,70,mid risk,1,0,0.01807187447753177,-0.8653895236394265,Maintain regular check-ups and a balanced diet.
+48,120,80,11.0,98.0,88,high risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+15,120,80,6.8,98.0,70,low risk,1,0,-0.27935771469560294,-1.1022895940281323,Maintain regular check-ups and a balanced diet.
+48,140,90,15.0,98.0,90,high risk,2,1,2.8510408365239237,1.9577716412023538,Monitor blood pressure regularly and reduce sodium intake.
+25,140,100,6.8,98.0,80,high risk,1,0,1.3980741710802336,-0.2895807083930632,Maintain regular check-ups and a balanced diet.
+29,100,70,6.8,98.0,80,low risk,0,0,-0.7535942911137038,0.27323531804417434,Maintain regular check-ups and a balanced diet.
+32,120,80,6.8,98.0,70,mid risk,1,0,0.2710894363895083,-0.8840397749614864,Maintain regular check-ups and a balanced diet.
+35,120,60,6.1,98.0,76,low risk,1,0,-0.46042216661660273,-0.1526269190441499,Maintain regular check-ups and a balanced diet.
+23,140,90,6.8,98.0,70,high risk,1,0,0.9320098846671147,-1.2109886601129412,Maintain regular check-ups and a balanced diet.
+23,130,70,6.8,98.0,78,mid risk,1,0,-0.08910403817370631,-0.1847982036618002,Maintain regular check-ups and a balanced diet.
+34,85,60,11.0,102.0,86,high risk,0,2,-1.6404454625795875,2.8118525535350756,Engage in regular physical activity and manage stress levels.
+32,120,90,6.8,98.0,70,low risk,1,0,0.6476075834875527,-0.972693176209523,Maintain regular check-ups and a balanced diet.
+42,130,80,18.0,98.0,70,mid risk,2,1,2.330559738422315,0.3835997442259682,Monitor blood pressure regularly and reduce sodium intake.
+23,90,60,6.8,98.0,76,low risk,0,0,-1.622210713087887,-0.04751885905774375,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+15,76,49,6.8,98.0,77,low risk,0,0,-2.6960067124213403,0.13165859890508258,Maintain regular check-ups and a balanced diet.
+20,120,75,6.8,98.0,70,low risk,1,0,-0.30572056733723946,-0.9937717701492182,Maintain regular check-ups and a balanced diet.
+48,120,80,11.0,98.0,88,low risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+15,120,80,6.8,98.0,70,low risk,1,0,-0.27935771469560294,-1.1022895940281323,Maintain regular check-ups and a balanced diet.
+50,140,90,15.0,98.0,90,high risk,2,1,2.915799324886878,1.9834480905043121,Monitor blood pressure regularly and reduce sodium intake.
+25,140,100,6.8,98.0,80,high risk,1,0,1.3980741710802336,-0.2895807083930632,Maintain regular check-ups and a balanced diet.
+30,120,80,6.8,101.0,76,low risk,0,2,-0.37741196387057957,0.620545314836719,Engage in regular physical activity and manage stress levels.
+31,110,90,6.8,100.0,70,mid risk,0,2,-0.07175641174595619,-0.29773527190447263,Engage in regular physical activity and manage stress levels.
+42,140,100,18.0,98.0,90,high risk,2,1,3.4210790839290715,2.1136870180395047,Monitor blood pressure regularly and reduce sodium intake.
+18,120,80,6.8,102.0,76,low risk,0,2,-0.9655013948711069,0.7796968179918323,Engage in regular physical activity and manage stress levels.
+32,140,100,7.9,98.0,78,high risk,1,0,1.7619630574720035,-0.2786708037060107,Maintain regular check-ups and a balanced diet.
+17,90,60,7.9,101.0,76,low risk,0,2,-2.272909973333301,0.9330017028003609,Engage in regular physical activity and manage stress levels.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+15,76,49,7.9,98.0,77,low risk,0,0,-2.553815005109486,0.24957791176847208,Maintain regular check-ups and a balanced diet.
+19,120,75,7.9,98.0,70,low risk,1,0,-0.19590810420686228,-0.8886906819368079,Maintain regular check-ups and a balanced diet.
+48,120,80,11.0,98.0,88,low risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+15,120,80,7.9,98.0,70,low risk,1,0,-0.13716600738374862,-0.9843702811647429,Maintain regular check-ups and a balanced diet.
+25,120,80,7.9,98.0,66,mid risk,1,0,0.17671137405017473,-1.2497419961213334,Maintain regular check-ups and a balanced diet.
+22,100,65,7.9,98.0,80,low risk,0,0,-1.0263163666212116,0.3456137589747279,Maintain regular check-ups and a balanced diet.
+50,140,95,17.0,98.0,60,high risk,2,1,3.2882258225101846,-0.7996345704568664,Monitor blood pressure regularly and reduce sodium intake.
+35,100,70,7.9,98.0,60,low risk,1,0,-0.46670242061722655,-1.5005858285184734,Maintain regular check-ups and a balanced diet.
+19,120,85,7.9,98.0,60,low risk,1,0,0.15582239193906222,-1.9617289868508008,Maintain regular check-ups and a balanced diet.
+60,90,65,7.9,98.0,77,low risk,1,1,-0.09124913241714493,0.5995265556344526,Monitor blood pressure regularly and reduce sodium intake.
+38,135,60,7.9,101.0,86,high risk,0,2,-0.2725733222412351,1.9107985345365173,Engage in regular physical activity and manage stress levels.
+50,120,80,7.9,98.0,70,low risk,1,1,0.9961075389679509,-0.5350324183804718,Monitor blood pressure regularly and reduce sodium intake.
+39,90,70,9.0,98.0,80,high risk,0,1,-0.43332618408165213,0.6988319213030478,Monitor blood pressure regularly and reduce sodium intake.
+30,140,100,15.0,98.0,70,high risk,2,1,2.59515728645114,-0.3307396110952202,Monitor blood pressure regularly and reduce sodium intake.
+31,120,60,6.1,98.0,76,mid risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+23,120,90,7.9,98.0,70,mid risk,1,0,0.4983860931661129,-0.9703178852049461,Maintain regular check-ups and a balanced diet.
+29,130,70,7.9,98.0,78,mid risk,1,0,0.24736313422701076,0.01015045710746432,Maintain regular check-ups and a balanced diet.
+17,85,60,7.9,102.0,86,low risk,0,2,-2.591614697907197,2.261284670944332,Engage in regular physical activity and manage stress levels.
+32,120,90,7.9,98.0,70,low risk,1,0,0.789799290799407,-0.8547738633461335,Maintain regular check-ups and a balanced diet.
+42,120,80,7.9,98.0,70,low risk,1,1,0.7370735855161338,-0.6377382155883051,Monitor blood pressure regularly and reduce sodium intake.
+23,90,60,7.9,98.0,76,low risk,0,0,-1.4800190057760327,0.07040045380564576,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,low risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+15,76,49,7.9,98.0,77,low risk,0,0,-2.553815005109486,0.24957791176847208,Maintain regular check-ups and a balanced diet.
+16,120,75,7.9,98.0,7,low risk,1,0,-0.4492080377496494,-7.128830248985269,Maintain regular check-ups and a balanced diet.
+48,120,80,11.0,98.0,88,mid risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+15,120,80,7.9,98.0,70,low risk,1,0,-0.13716600738374862,-0.9843702811647429,Maintain regular check-ups and a balanced diet.
+63,140,90,15.0,98.0,90,high risk,2,1,3.3367294992460805,2.1503450109670417,Monitor blood pressure regularly and reduce sodium intake.
+25,140,100,7.9,98.0,80,high risk,1,0,1.5402658783920877,-0.17166139552967372,Maintain regular check-ups and a balanced diet.
+30,120,80,7.9,101.0,76,high risk,0,2,-0.23522025655872522,0.7384646277001086,Engage in regular physical activity and manage stress levels.
+17,70,50,7.9,98.0,70,low risk,0,0,-2.6415007073470678,-0.3858549730071609,Maintain regular check-ups and a balanced diet.
+55,140,100,18.0,98.0,90,high risk,2,1,3.8420092582882743,2.2805839385022337,Monitor blood pressure regularly and reduce sodium intake.
+18,120,80,7.9,102.0,76,mid risk,0,2,-0.8233096875592526,0.8976161308552218,Engage in regular physical activity and manage stress levels.
+32,140,100,7.9,98.0,78,high risk,1,0,1.7619630574720035,-0.2786708037060107,Maintain regular check-ups and a balanced diet.
+17,90,60,7.5,101.0,76,low risk,0,2,-2.3246160487194296,0.8901219526682193,Engage in regular physical activity and manage stress levels.
+17,90,63,7.5,101.0,70,low risk,0,2,-2.2265331951612883,0.27289499009423457,Engage in regular physical activity and manage stress levels.
+25,120,90,7.5,101.0,80,low risk,0,2,-0.06238934537334737,0.9364943145314168,Engage in regular physical activity and manage stress levels.
+17,120,80,7.5,102.0,76,low risk,0,2,-0.9073950071268585,0.841898156072101,Engage in regular physical activity and manage stress levels.
+19,90,65,7.5,101.0,70,low risk,0,2,-2.086471077378725,0.2808407591465856,Engage in regular physical activity and manage stress levels.
+15,80,60,7.5,98.0,80,low risk,0,0,-2.0687517236395587,0.3799445989543559,Maintain regular check-ups and a balanced diet.
+60,90,65,7.5,98.0,77,low risk,1,1,-0.14295520780327378,0.5566468055023109,Monitor blood pressure regularly and reduce sodium intake.
+18,85,60,7.5,101.0,86,mid risk,0,2,-2.4114030282890466,1.918032946496306,Engage in regular physical activity and manage stress levels.
+50,120,80,7.5,98.0,70,low risk,1,1,0.944401463581822,-0.5779121685126134,Monitor blood pressure regularly and reduce sodium intake.
+19,90,70,7.5,98.0,80,low risk,0,0,-1.2748088504091775,0.28126836528793325,Maintain regular check-ups and a balanced diet.
+30,140,100,15.0,98.0,70,high risk,2,1,2.59515728645114,-0.3307396110952202,Monitor blood pressure regularly and reduce sodium intake.
+31,120,60,6.1,98.0,76,low risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+23,120,90,7.5,98.0,70,low risk,1,0,0.446680017779984,-1.0131976353370877,Maintain regular check-ups and a balanced diet.
+29,130,70,7.5,98.0,78,mid risk,1,0,0.1956570588408819,-0.032729293024677364,Maintain regular check-ups and a balanced diet.
+17,85,60,7.5,102.0,86,low risk,0,2,-2.643320773293326,2.21840492081219,Engage in regular physical activity and manage stress levels.
+32,120,90,7.5,98.0,70,low risk,1,0,0.7380932154132781,-0.8976536134782752,Maintain regular check-ups and a balanced diet.
+42,120,80,7.5,98.0,70,low risk,1,0,0.6853675101300049,-0.6806179657204467,Maintain regular check-ups and a balanced diet.
+42,90,60,7.5,98.0,76,low risk,0,1,-0.9165194417140962,0.27144697204210844,Monitor blood pressure regularly and reduce sodium intake.
+19,120,80,7.0,98.0,70,low risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+15,78,49,7.5,98.0,77,low risk,0,0,-2.547939530614329,0.1944230154318699,Maintain regular check-ups and a balanced diet.
+23,120,75,8.0,98.0,70,mid risk,1,0,-0.05346460863442164,-0.8266178457998559,Maintain regular check-ups and a balanced diet.
+48,120,80,11.0,98.0,88,high risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+15,120,80,7.5,98.0,70,mid risk,1,0,-0.1888720827698775,-1.0272500312968846,Maintain regular check-ups and a balanced diet.
+49,140,90,15.0,98.0,90,high risk,2,1,2.8834200807054007,1.970609865853333,Monitor blood pressure regularly and reduce sodium intake.
+25,140,100,7.5,98.0,80,high risk,1,0,1.488559803005959,-0.21454114566181545,Maintain regular check-ups and a balanced diet.
+30,120,80,7.5,101.0,76,mid risk,0,2,-0.2869263319448541,0.6955848775679669,Engage in regular physical activity and manage stress levels.
+16,70,50,7.5,100.0,70,low risk,0,2,-3.1246630285602777,0.18484745014344506,Engage in regular physical activity and manage stress levels.
+16,100,70,7.5,98.0,80,low risk,0,0,-1.084038833547181,0.1813779603126929,Maintain regular check-ups and a balanced diet.
+19,120,75,7.5,98.0,66,low risk,1,0,-0.25752923997383914,-1.325324393535332,Maintain regular check-ups and a balanced diet.
+40,160,100,19.0,98.0,77,high risk,2,1,4.029177336606539,0.7927581072575517,Monitor blood pressure regularly and reduce sodium intake.
+32,140,90,18.0,98.0,88,high risk,2,1,2.7158109648258315,1.877081192044558,Monitor blood pressure regularly and reduce sodium intake.
+22,100,65,7.5,98.0,70,low risk,0,0,-1.1028100929594604,-0.6816508948233698,Maintain regular check-ups and a balanced diet.
+49,120,90,7.5,98.0,77,low risk,1,1,1.3058917221648736,0.00966563815454014,Monitor blood pressure regularly and reduce sodium intake.
+28,90,60,7.5,98.0,82,low risk,0,0,-1.354956269683504,0.6823427691279736,Maintain regular check-ups and a balanced diet.
+12,90,60,7.5,102.0,66,low risk,0,2,-2.710838421401738,0.1547561247142307,Engage in regular physical activity and manage stress levels.
+20,100,90,7.5,98.0,88,low risk,1,0,-0.18165544186348762,0.8429319793533013,Maintain regular check-ups and a balanced diet.
+23,100,85,7.5,98.0,66,low risk,1,0,-0.32730961496274236,-1.2398734341348463,Maintain regular check-ups and a balanced diet.
+22,120,90,7.5,98.0,82,low risk,1,0,0.44404595474105074,0.15522602441108038,Maintain regular check-ups and a balanced diet.
+21,120,80,7.5,98.0,77,low risk,1,0,0.022754737985469287,-0.2611512508248402,Maintain regular check-ups and a balanced diet.
+35,140,100,7.5,98.0,66,high risk,1,0,1.7776495334877624,-1.4642977642843622,Maintain regular check-ups and a balanced diet.
+54,140,100,15.0,98.0,66,high risk,2,1,3.362344086425743,-0.41637618093810236,Monitor blood pressure regularly and reduce sodium intake.
+40,120,95,11.0,98.0,80,mid risk,2,1,1.6626020529948646,0.5203082004277353,Monitor blood pressure regularly and reduce sodium intake.
+21,75,50,7.5,98.0,60,low risk,0,0,-2.444523582256194,-1.3924545937124932,Maintain regular check-ups and a balanced diet.
+12,90,60,7.5,102.0,60,low risk,0,2,-2.7257110119730097,-0.4358748174853431,Engage in regular physical activity and manage stress levels.
+60,120,85,15.0,98.0,60,mid risk,2,1,2.401154241483411,-0.6742462113151405,Monitor blood pressure regularly and reduce sodium intake.
+55,140,95,19.0,98.0,77,high risk,2,1,3.750791426966818,1.152409639690863,Monitor blood pressure regularly and reduce sodium intake.
+50,130,100,16.0,98.0,75,mid risk,2,1,3.096493434615636,0.5867924401099983,Monitor blood pressure regularly and reduce sodium intake.
+60,120,80,7.5,98.0,75,low risk,1,1,1.2805877308726534,0.04266252983015642,Monitor blood pressure regularly and reduce sodium intake.
+55,100,65,7.5,98.0,66,low risk,1,1,-0.04421009535156327,-0.6517434428074395,Monitor blood pressure regularly and reduce sodium intake.
+45,120,95,7.5,98.0,66,low risk,1,1,1.3373674029406553,-1.1688373551059466,Monitor blood pressure regularly and reduce sodium intake.
+35,100,70,7.5,98.0,66,low risk,1,0,-0.5035359054320836,-0.9528346364510413,Maintain regular check-ups and a balanced diet.
+22,120,85,7.5,98.0,88,low risk,1,0,0.2706594717633006,0.7901836672346724,Maintain regular check-ups and a balanced diet.
+13,90,65,7.5,101.0,80,low risk,0,2,-2.2559588915154682,1.1881963149066668,Engage in regular physical activity and manage stress levels.
+23,120,90,7.5,98.0,60,low risk,1,0,0.4218923668278641,-1.997582539003044,Maintain regular check-ups and a balanced diet.
+17,90,65,7.5,103.0,67,low risk,0,2,-2.557742862672919,0.5862692366785671,Engage in regular physical activity and manage stress levels.
+28,115,60,7.5,101.0,86,mid risk,0,2,-1.2238873382549915,1.8622879999391895,Engage in regular physical activity and manage stress levels.
+59,120,80,7.5,98.0,70,low risk,1,1,1.2358146612151162,-0.4623681466538009,Monitor blood pressure regularly and reduce sodium intake.
+29,120,70,9.0,98.0,80,high risk,1,1,0.10660462232286089,0.3863224817263477,Monitor blood pressure regularly and reduce sodium intake.
+23,120,80,7.5,98.0,70,low risk,1,0,0.0701618706819396,-0.9245442340890512,Maintain regular check-ups and a balanced diet.
+31,120,60,6.1,98.0,76,mid risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+23,120,80,7.5,98.0,70,mid risk,1,0,0.0701618706819396,-0.9245442340890512,Maintain regular check-ups and a balanced diet.
+29,130,70,7.5,98.0,78,mid risk,1,0,0.1956570588408819,-0.032729293024677364,Maintain regular check-ups and a balanced diet.
+17,85,60,7.5,102.0,86,low risk,0,2,-2.643320773293326,2.21840492081219,Engage in regular physical activity and manage stress levels.
+32,120,90,7.5,98.0,70,low risk,1,0,0.7380932154132781,-0.8976536134782752,Maintain regular check-ups and a balanced diet.
+42,120,80,7.5,98.0,70,low risk,1,0,0.6853675101300049,-0.6806179657204467,Maintain regular check-ups and a balanced diet.
+23,90,60,7.5,98.0,76,low risk,0,0,-1.5317250811621614,0.027520703673504093,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,low risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+15,78,49,7.5,98.0,77,low risk,0,0,-2.547939530614329,0.1944230154318699,Maintain regular check-ups and a balanced diet.
+20,120,75,7.5,98.0,70,low risk,1,0,-0.215234935411514,-0.9187322074179703,Maintain regular check-ups and a balanced diet.
+48,120,80,11.0,98.0,88,high risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+15,120,80,7.5,98.0,70,low risk,1,0,-0.1888720827698775,-1.0272500312968846,Maintain regular check-ups and a balanced diet.
+24,120,80,7.5,98.0,66,low risk,1,0,0.09262605448256873,-1.3054599709044543,Maintain regular check-ups and a balanced diet.
+16,100,70,7.5,98.0,80,low risk,0,0,-1.084038833547181,0.1813779603126929,Maintain regular check-ups and a balanced diet.
+19,120,76,7.5,98.0,66,low risk,1,0,-0.21987742526403467,-1.3341897336601356,Maintain regular check-ups and a balanced diet.
+40,160,100,19.0,98.0,77,high risk,2,1,4.029177336606539,0.7927581072575517,Monitor blood pressure regularly and reduce sodium intake.
+32,140,90,18.0,98.0,88,high risk,2,1,2.7158109648258315,1.877081192044558,Monitor blood pressure regularly and reduce sodium intake.
+22,100,65,7.5,98.0,70,mid risk,0,0,-1.1028100929594604,-0.6816508948233698,Maintain regular check-ups and a balanced diet.
+49,120,90,7.5,98.0,77,mid risk,1,1,1.3058917221648736,0.00966563815454014,Monitor blood pressure regularly and reduce sodium intake.
+28,90,60,7.5,98.0,82,mid risk,0,0,-1.354956269683504,0.6823427691279736,Maintain regular check-ups and a balanced diet.
+12,90,60,7.5,102.0,66,mid risk,0,2,-2.710838421401738,0.1547561247142307,Engage in regular physical activity and manage stress levels.
+20,100,90,7.5,98.0,88,mid risk,1,0,-0.18165544186348762,0.8429319793533013,Maintain regular check-ups and a balanced diet.
+23,100,85,7.5,98.0,66,mid risk,1,0,-0.32730961496274236,-1.2398734341348463,Maintain regular check-ups and a balanced diet.
+22,120,90,7.5,98.0,82,mid risk,1,0,0.44404595474105074,0.15522602441108038,Maintain regular check-ups and a balanced diet.
+21,120,80,7.5,98.0,77,mid risk,1,0,0.022754737985469287,-0.2611512508248402,Maintain regular check-ups and a balanced diet.
+35,140,100,7.5,98.0,66,high risk,1,0,1.7776495334877624,-1.4642977642843622,Maintain regular check-ups and a balanced diet.
+54,140,100,15.0,98.0,66,high risk,2,1,3.362344086425743,-0.41637618093810236,Monitor blood pressure regularly and reduce sodium intake.
+40,120,95,11.0,98.0,80,high risk,2,1,1.6626020529948646,0.5203082004277353,Monitor blood pressure regularly and reduce sodium intake.
+21,75,50,7.5,98.0,60,low risk,0,0,-2.444523582256194,-1.3924545937124932,Maintain regular check-ups and a balanced diet.
+22,90,60,7.5,102.0,60,high risk,0,2,-2.401918570158238,-0.30749257097555144,Engage in regular physical activity and manage stress levels.
+40,120,85,15.0,98.0,60,high risk,2,1,1.7535693578538685,-0.9310107043347241,Monitor blood pressure regularly and reduce sodium intake.
+55,140,95,19.0,98.0,77,high risk,2,1,3.750791426966818,1.152409639690863,Monitor blood pressure regularly and reduce sodium intake.
+50,130,100,16.0,98.0,75,high risk,2,1,3.096493434615636,0.5867924401099983,Monitor blood pressure regularly and reduce sodium intake.
+60,120,80,7.5,98.0,75,mid risk,1,1,1.2805877308726534,0.04266252983015642,Monitor blood pressure regularly and reduce sodium intake.
+40,120,85,15.0,98.0,60,high risk,2,1,1.7535693578538685,-0.9310107043347241,Monitor blood pressure regularly and reduce sodium intake.
+55,140,95,19.0,98.0,77,high risk,2,1,3.750791426966818,1.152409639690863,Monitor blood pressure regularly and reduce sodium intake.
+50,130,100,16.0,98.0,75,mid risk,2,1,3.096493434615636,0.5867924401099983,Monitor blood pressure regularly and reduce sodium intake.
+41,120,80,7.5,98.0,75,low risk,1,0,0.6653820914245877,-0.20126373853844787,Maintain regular check-ups and a balanced diet.
+55,100,65,7.5,98.0,66,low risk,1,1,-0.04421009535156327,-0.6517434428074395,Monitor blood pressure regularly and reduce sodium intake.
+45,120,95,7.5,98.0,66,low risk,1,1,1.3373674029406553,-1.1688373551059466,Monitor blood pressure regularly and reduce sodium intake.
+35,100,70,7.5,98.0,66,low risk,1,0,-0.5035359054320836,-0.9528346364510413,Maintain regular check-ups and a balanced diet.
+22,120,85,7.5,98.0,88,low risk,1,0,0.2706594717633006,0.7901836672346724,Maintain regular check-ups and a balanced diet.
+13,90,65,7.5,101.0,80,high risk,0,2,-2.2559588915154682,1.1881963149066668,Engage in regular physical activity and manage stress levels.
+23,120,90,7.5,98.0,60,low risk,1,0,0.4218923668278641,-1.997582539003044,Maintain regular check-ups and a balanced diet.
+17,90,65,7.5,103.0,67,mid risk,0,2,-2.557742862672919,0.5862692366785671,Engage in regular physical activity and manage stress levels.
+27,135,60,7.5,101.0,86,high risk,0,2,-0.6804510836236125,1.7266983132436047,Engage in regular physical activity and manage stress levels.
+50,120,80,15.0,98.0,70,high risk,2,1,1.9138903770717375,0.22608314646504213,Monitor blood pressure regularly and reduce sodium intake.
+34,110,70,7.0,98.0,80,high risk,0,0,-0.27793728310682564,0.29749058534283823,Maintain regular check-ups and a balanced diet.
+32,120,80,7.5,98.0,70,low risk,1,0,0.3615750683152337,-0.8090002122302385,Maintain regular check-ups and a balanced diet.
+31,120,60,6.1,98.0,76,low risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+23,120,90,7.5,98.0,70,low risk,1,0,0.446680017779984,-1.0131976353370877,Maintain regular check-ups and a balanced diet.
+29,130,70,7.5,98.0,78,mid risk,1,0,0.1956570588408819,-0.032729293024677364,Maintain regular check-ups and a balanced diet.
+17,85,60,7.5,101.0,86,high risk,0,2,-2.443782272470524,1.905194721845327,Engage in regular physical activity and manage stress levels.
+32,120,90,7.5,98.0,70,low risk,1,0,0.7380932154132781,-0.8976536134782752,Maintain regular check-ups and a balanced diet.
+42,120,80,7.5,98.0,70,low risk,1,0,0.6853675101300049,-0.6806179657204467,Maintain regular check-ups and a balanced diet.
+23,90,60,7.5,98.0,76,low risk,0,0,-1.5317250811621614,0.027520703673504093,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+15,76,49,7.5,98.0,77,low risk,0,0,-2.6055210804956146,0.20669816163633042,Maintain regular check-ups and a balanced diet.
+20,120,76,7.5,98.0,70,low risk,1,0,-0.17758312070170956,-0.927597547542774,Maintain regular check-ups and a balanced diet.
+48,120,80,11.0,98.0,88,high risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+15,120,80,7.5,98.0,70,low risk,1,0,-0.1888720827698775,-1.0272500312968846,Maintain regular check-ups and a balanced diet.
+24,120,80,7.5,98.0,66,low risk,1,0,0.09262605448256873,-1.3054599709044543,Maintain regular check-ups and a balanced diet.
+22,100,65,12.0,98.0,80,high risk,2,1,-0.4963290939133913,0.7851311978291795,Monitor blood pressure regularly and reduce sodium intake.
+50,140,95,17.0,98.0,60,high risk,2,1,3.2882258225101846,-0.7996345704568664,Monitor blood pressure regularly and reduce sodium intake.
+35,100,70,11.0,98.0,60,high risk,1,1,-0.06598033637472832,-1.1682677649943758,Monitor blood pressure regularly and reduce sodium intake.
+19,120,85,9.0,98.0,60,mid risk,1,0,0.29801409925091643,-1.8438096739874112,Maintain regular check-ups and a balanced diet.
+30,90,65,8.0,98.0,77,mid risk,0,0,-1.0496999390149264,0.2250997536381127,Maintain regular check-ups and a balanced diet.
+28,85,60,9.0,101.0,86,mid risk,0,2,-1.8937128037762925,2.207214256001629,Engage in regular physical activity and manage stress levels.
+50,130,80,15.0,98.0,86,high risk,2,1,2.241458368001558,1.7397232613082694,Monitor blood pressure regularly and reduce sodium intake.
+35,140,90,13.0,98.0,70,high risk,2,1,2.122004983329837,-0.3922938372529959,Monitor blood pressure regularly and reduce sodium intake.
+29,90,70,11.0,100.0,80,high risk,0,2,-0.897665250611383,1.411268823387691,Engage in regular physical activity and manage stress levels.
+19,120,60,7.0,98.4,70,low risk,1,2,-0.9568393948018407,-0.7269059382753246,Engage in regular physical activity and manage stress levels.
+46,140,100,12.0,99.0,90,high risk,2,2,2.575466429040246,1.8350538636281601,Engage in regular physical activity and manage stress levels.
+28,95,60,10.0,101.0,86,high risk,0,2,-1.4765398659045426,2.25303790030968,Engage in regular physical activity and manage stress levels.
+50,120,80,7.0,98.0,70,mid risk,1,1,0.879768869349161,-0.6315118561777904,Monitor blood pressure regularly and reduce sodium intake.
+39,110,70,7.9,98.0,80,mid risk,0,1,0.00029760741934986427,0.45816114639505284,Monitor blood pressure regularly and reduce sodium intake.
+25,140,100,15.0,98.6,70,high risk,2,2,2.3135379650500743,-0.20700461496999983,Engage in regular physical activity and manage stress levels.
+31,120,60,6.1,98.0,76,low risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+23,120,85,8.0,98.0,70,low risk,1,0,0.32305353846362284,-0.9152712470478924,Maintain regular check-ups and a balanced diet.
+29,130,70,8.0,98.0,78,mid risk,1,0,0.2602896530735429,0.02087039464049967,Maintain regular check-ups and a balanced diet.
+17,90,60,9.0,102.0,86,mid risk,0,2,-2.3054691158921283,2.34851611829657,Engage in regular physical activity and manage stress levels.
+32,120,90,7.0,100.0,70,mid risk,0,2,0.2743836195350135,-0.32483290320972547,Engage in regular physical activity and manage stress levels.
+42,120,90,9.0,98.0,70,mid risk,1,1,1.2557834399260326,-0.6084723039729523,Monitor blood pressure regularly and reduce sodium intake.
+23,90,60,6.7,98.0,76,low risk,0,0,-1.635137231934419,-0.05823879659077913,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,low risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+15,76,68,7.0,98.0,77,low risk,0,0,-1.9547691952419912,-0.015342988400116159,Maintain regular check-ups and a balanced diet.
+34,120,75,8.0,98.0,70,low risk,1,0,0.3027070773618268,-0.6853973746390849,Maintain regular check-ups and a balanced diet.
+48,120,80,11.0,98.0,88,high risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+15,120,80,6.6,99.0,70,low risk,1,2,-0.5047492532114694,-0.8105192701273399,Engage in regular physical activity and manage stress levels.
+27,140,90,15.0,98.0,90,high risk,2,1,2.171076708712904,1.6881689235317912,Monitor blood pressure regularly and reduce sodium intake.
+25,140,100,12.0,99.0,80,high risk,2,2,1.8707146502771062,0.5810662422916412,Engage in regular physical activity and manage stress levels.
+36,120,90,7.0,98.0,82,mid risk,1,0,0.8327227790490694,0.2813614818596119,Maintain regular check-ups and a balanced diet.
+30,120,80,9.0,101.0,76,mid risk,0,2,-0.09302854924687104,0.8563839405634981,Engage in regular physical activity and manage stress levels.
+15,70,50,6.0,98.0,70,mid risk,0,0,-2.951863053794134,-0.615210235436792,Maintain regular check-ups and a balanced diet.
+40,120,95,7.0,98.0,70,high risk,1,0,1.1207536481814564,-0.8928742045596371,Maintain regular check-ups and a balanced diet.
+15,90,60,6.0,98.0,80,low risk,0,0,-1.9747417569311139,0.157769804936522,Maintain regular check-ups and a balanced diet.
+21,90,50,6.9,98.0,60,low risk,0,0,-2.0902210712257454,-1.54883781544416,Maintain regular check-ups and a balanced diet.
+15,90,49,6.0,98.0,77,low risk,0,0,-2.3963480140245985,-0.04002692479042458,Maintain regular check-ups and a balanced diet.
+21,90,50,6.5,98.0,60,low risk,0,0,-2.141927146611874,-1.5917175655763016,Maintain regular check-ups and a balanced diet.
+15,90,49,6.0,98.0,77,low risk,0,0,-2.3963480140245985,-0.04002692479042458,Maintain regular check-ups and a balanced diet.
+15,90,49,6.7,99.0,77,low risk,0,2,-2.505400882921675,0.34822283690768674,Engage in regular physical activity and manage stress levels.
+15,90,49,6.0,99.0,77,low risk,0,2,-2.5958865148474004,0.27318327417643884,Engage in regular physical activity and manage stress levels.
+10,100,50,6.0,99.0,70,mid risk,0,2,-2.449574527305037,-0.5503183527917328,Engage in regular physical activity and manage stress levels.
+15,100,49,6.8,99.0,77,low risk,0,2,-2.2045666146687144,0.2975670434184193,Engage in regular physical activity and manage stress levels.
+15,100,49,6.0,99.0,77,low risk,0,2,-2.3079787654409722,0.21180754315413602,Engage in regular physical activity and manage stress levels.
+12,100,50,6.4,98.0,70,mid risk,0,0,-2.133571462733152,-0.7949723523244961,Maintain regular check-ups and a balanced diet.
+15,100,60,6.0,98.0,80,low risk,0,0,-1.6868340075246855,0.09639407391421918,Maintain regular check-ups and a balanced diet.
+35,140,90,13.0,98.0,70,high risk,2,1,2.122004983329837,-0.3922938372529959,Monitor blood pressure regularly and reduce sodium intake.
+29,90,70,8.0,100.0,80,high risk,0,2,-1.285460816007349,1.0896706973966288,Engage in regular physical activity and manage stress levels.
+30,140,85,7.0,98.0,70,high risk,1,0,0.9962585580814968,-1.0553545118659977,Maintain regular check-ups and a balanced diet.
+23,140,80,7.01,98.0,70,high risk,1,0,0.5826374271467879,-1.0998233900455303,Maintain regular check-ups and a balanced diet.
+35,85,60,11.0,102.0,86,high risk,0,2,-1.6080662183981103,2.8246907781860546,Engage in regular physical activity and manage stress levels.
+42,130,80,18.0,98.0,70,high risk,2,1,2.330559738422315,0.3835997442259682,Monitor blood pressure regularly and reduce sodium intake.
+50,140,90,15.0,98.0,90,high risk,2,1,2.915799324886878,1.9834480905043121,Monitor blood pressure regularly and reduce sodium intake.
+25,140,100,7.01,98.0,80,high risk,1,0,1.4252198606579511,-0.26706883957368893,Maintain regular check-ups and a balanced diet.
+40,140,100,18.0,98.0,90,high risk,2,1,3.3563205955661175,2.088010568737546,Monitor blood pressure regularly and reduce sodium intake.
+32,140,100,6.9,98.0,78,high risk,1,0,1.6326978690066816,-0.3858701790363648,Maintain regular check-ups and a balanced diet.
+14,90,65,7.0,101.0,70,high risk,0,2,-2.312999892518772,0.16304994822651264,Engage in regular physical activity and manage stress levels.
+37,120,90,11.0,98.0,88,high risk,2,1,1.397035367663107,1.313628150031581,Monitor blood pressure regularly and reduce sodium intake.
+17,110,75,12.0,101.0,76,high risk,0,2,-0.6023299811655578,1.1167875777381522,Engage in regular physical activity and manage stress levels.
+40,120,90,12.0,98.0,80,high risk,2,1,1.6036081679111645,0.6718342763821077,Monitor blood pressure regularly and reduce sodium intake.
+40,160,100,19.0,98.0,77,high risk,2,1,4.029177336606539,0.7927581072575517,Monitor blood pressure regularly and reduce sodium intake.
+20,120,76,7.5,98.0,70,low risk,1,0,-0.17758312070170956,-0.927597547542774,Maintain regular check-ups and a balanced diet.
+15,120,80,7.5,98.0,70,low risk,1,0,-0.1888720827698775,-1.0272500312968846,Maintain regular check-ups and a balanced diet.
+24,120,80,7.5,98.0,66,low risk,1,0,0.09262605448256873,-1.3054599709044543,Maintain regular check-ups and a balanced diet.
+19,120,60,7.0,98.4,70,low risk,1,2,-0.9568393948018407,-0.7269059382753246,Engage in regular physical activity and manage stress levels.
+31,120,60,6.1,98.0,76,low risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+23,120,85,8.0,98.0,70,low risk,1,0,0.32305353846362284,-0.9152712470478924,Maintain regular check-ups and a balanced diet.
+23,90,60,6.7,98.0,76,low risk,0,0,-1.635137231934419,-0.05823879659077913,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,low risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+15,76,68,7.0,98.0,77,low risk,0,0,-1.9547691952419912,-0.015342988400116159,Maintain regular check-ups and a balanced diet.
+34,120,75,8.0,98.0,70,low risk,1,0,0.3027070773618268,-0.6853973746390849,Maintain regular check-ups and a balanced diet.
+15,120,80,6.6,99.0,70,low risk,1,2,-0.5047492532114694,-0.8105192701273399,Engage in regular physical activity and manage stress levels.
+15,90,60,6.0,98.0,80,low risk,0,0,-1.9747417569311139,0.157769804936522,Maintain regular check-ups and a balanced diet.
+21,90,50,6.9,98.0,60,low risk,0,0,-2.0902210712257454,-1.54883781544416,Maintain regular check-ups and a balanced diet.
+15,100,49,7.6,98.0,77,low risk,0,0,-1.901615963073655,0.07011634471583908,Maintain regular check-ups and a balanced diet.
+12,100,50,6.0,98.0,70,mid risk,0,0,-2.1852775381192813,-0.8378521024566379,Maintain regular check-ups and a balanced diet.
+21,100,50,6.8,98.0,60,low risk,0,0,-1.8152398406658494,-1.6209334839994982,Maintain regular check-ups and a balanced diet.
+23,130,70,7.01,98.0,78,mid risk,1,0,-0.06195834859598869,-0.1622863348424259,Maintain regular check-ups and a balanced diet.
+32,120,90,6.9,98.0,70,mid risk,1,0,0.6605341023340849,-0.9619732386764875,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+20,120,75,7.01,100.0,70,mid risk,0,2,-0.6776518794051256,-0.34483950339611713,Engage in regular physical activity and manage stress levels.
+48,120,80,11.0,98.0,88,mid risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+30,120,80,6.9,101.0,76,mid risk,0,2,-0.36448544502404734,0.6312652523697545,Engage in regular physical activity and manage stress levels.
+18,120,80,6.9,102.0,76,mid risk,0,2,-0.9525748760245746,0.7904167555248677,Engage in regular physical activity and manage stress levels.
+17,90,60,6.9,101.0,76,mid risk,0,2,-2.402175161798623,0.8258023274700068,Engage in regular physical activity and manage stress levels.
+17,90,63,6.9,101.0,70,mid risk,0,2,-2.3040923082404814,0.20857536489602213,Engage in regular physical activity and manage stress levels.
+25,120,90,6.7,101.0,80,mid risk,0,2,-0.16580149614560494,0.8507348142671337,Engage in regular physical activity and manage stress levels.
+17,120,80,6.7,102.0,76,mid risk,0,2,-1.0108071578991162,0.7561386558078177,Engage in regular physical activity and manage stress levels.
+13,90,65,7.9,101.0,80,mid risk,0,2,-2.2042528161293395,1.2310760650388084,Engage in regular physical activity and manage stress levels.
+31,120,60,6.1,98.0,76,mid risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+29,130,70,6.1,98.0,78,mid risk,1,0,0.014685794989430965,-0.18280841848717308,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+28,85,60,9.0,101.0,86,mid risk,0,2,-1.8937128037762925,2.207214256001629,Engage in regular physical activity and manage stress levels.
+50,140,80,6.7,98.0,70,mid risk,1,0,1.4168048116224208,-0.7864231308215022,Maintain regular check-ups and a balanced diet.
+29,90,70,6.7,98.0,80,mid risk,0,0,-1.054428559366664,0.32389111153344174,Maintain regular check-ups and a balanced diet.
+31,120,60,6.1,98.0,76,mid risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+29,130,70,6.7,98.0,78,mid risk,1,0,0.09224490806862429,-0.11848879328896061,Maintain regular check-ups and a balanced diet.
+17,85,60,9.0,102.0,86,mid risk,0,2,-2.4494229905953424,2.379203983807721,Engage in regular physical activity and manage stress levels.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+20,110,60,7.0,100.0,70,mid risk,0,2,-1.5316295013432737,-0.15155566425506295,Engage in regular physical activity and manage stress levels.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+20,120,75,7.01,100.0,70,mid risk,0,2,-0.6776518794051256,-0.34483950339611713,Engage in regular physical activity and manage stress levels.
+48,120,80,11.0,98.0,88,mid risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+30,120,80,6.9,101.0,76,mid risk,0,2,-0.36448544502404734,0.6312652523697545,Engage in regular physical activity and manage stress levels.
+18,120,80,6.9,102.0,76,mid risk,0,2,-0.9525748760245746,0.7904167555248677,Engage in regular physical activity and manage stress levels.
+17,90,60,6.9,101.0,76,mid risk,0,2,-2.402175161798623,0.8258023274700068,Engage in regular physical activity and manage stress levels.
+17,90,63,6.9,101.0,70,mid risk,0,2,-2.3040923082404814,0.20857536489602213,Engage in regular physical activity and manage stress levels.
+25,120,90,6.7,101.0,80,mid risk,0,2,-0.16580149614560494,0.8507348142671337,Engage in regular physical activity and manage stress levels.
+17,120,80,6.7,102.0,76,mid risk,0,2,-1.0108071578991162,0.7561386558078177,Engage in regular physical activity and manage stress levels.
+13,90,65,7.9,101.0,80,mid risk,0,2,-2.2042528161293395,1.2310760650388084,Engage in regular physical activity and manage stress levels.
+31,120,60,6.1,98.0,76,mid risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+29,130,70,6.1,98.0,78,mid risk,1,0,0.014685794989430965,-0.18280841848717308,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+28,85,60,9.0,101.0,86,mid risk,0,2,-1.8937128037762925,2.207214256001629,Engage in regular physical activity and manage stress levels.
+50,140,80,6.7,98.0,70,mid risk,1,0,1.4168048116224208,-0.7864231308215022,Maintain regular check-ups and a balanced diet.
+29,90,70,6.7,98.0,80,mid risk,0,0,-1.054428559366664,0.32389111153344174,Maintain regular check-ups and a balanced diet.
+31,120,60,6.1,98.0,76,mid risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+29,130,70,6.7,98.0,78,mid risk,1,0,0.09224490806862429,-0.11848879328896061,Maintain regular check-ups and a balanced diet.
+17,85,60,9.0,102.0,86,mid risk,0,2,-2.4494229905953424,2.379203983807721,Engage in regular physical activity and manage stress levels.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+20,110,60,7.0,100.0,70,mid risk,0,2,-1.5316295013432737,-0.15155566425506295,Engage in regular physical activity and manage stress levels.
+32,120,65,6.0,101.0,76,mid risk,0,2,-0.9808428469269497,0.6934423657464491,Engage in regular physical activity and manage stress levels.
+26,85,60,6.0,101.0,86,mid risk,0,2,-2.3462668575352126,1.8599396807086084,Engage in regular physical activity and manage stress levels.
+29,130,70,7.7,98.0,78,mid risk,1,0,0.2215100965339463,-0.011289417958606548,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+54,130,70,12.0,98.0,67,mid risk,2,1,1.5595650954244271,-0.31219988179615643,Monitor blood pressure regularly and reduce sodium intake.
+44,120,90,16.0,98.0,80,mid risk,2,1,2.2501858984983607,1.1519846763074406,Monitor blood pressure regularly and reduce sodium intake.
+23,130,70,6.9,98.0,70,mid risk,1,0,-0.09600764008887,-0.9615861890615298,Maintain regular check-ups and a balanced diet.
+22,85,60,6.9,98.0,76,mid risk,0,0,-1.785617313126046,-0.018949280664536133,Maintain regular check-ups and a balanced diet.
+55,120,90,12.0,98.0,70,mid risk,2,1,2.064509179681201,-0.11997725751916084,Monitor blood pressure regularly and reduce sodium intake.
+35,120,80,6.9,98.0,78,mid risk,1,0,0.4009838085421678,-0.04729724054274853,Maintain regular check-ups and a balanced diet.
+21,90,60,6.9,98.0,86,mid risk,0,0,-1.649255031652189,0.9219095328392896,Maintain regular check-ups and a balanced diet.
+16,90,65,6.9,98.0,76,mid risk,0,0,-1.6476798299626723,-0.17099319470558086,Maintain regular check-ups and a balanced diet.
+33,115,65,7.0,98.0,70,mid risk,1,0,-0.37940937708623096,-0.6860937078612301,Maintain regular check-ups and a balanced diet.
+12,95,60,6.9,98.0,65,mid risk,0,0,-1.848768421581721,-1.2915306522291823,Maintain regular check-ups and a balanced diet.
+28,120,90,6.9,98.0,70,mid risk,1,0,0.5310171256081764,-1.0133261372804043,Maintain regular check-ups and a balanced diet.
+21,90,65,6.9,98.0,76,mid risk,0,0,-1.4857836090552867,-0.10680207145068496,Maintain regular check-ups and a balanced diet.
+18,90,60,6.9,98.0,70,mid risk,0,0,-1.7860530057200126,-0.6916209869791778,Maintain regular check-ups and a balanced diet.
+21,120,80,6.9,98.0,76,mid risk,1,0,-0.05728314018893589,-0.4239093663896482,Maintain regular check-ups and a balanced diet.
+16,100,70,6.9,98.0,80,mid risk,0,0,-1.1615979466263742,0.11705833511448045,Maintain regular check-ups and a balanced diet.
+19,120,75,6.9,98.0,66,mid risk,1,0,-0.33508835305303236,-1.3896440187335444,Maintain regular check-ups and a balanced diet.
+23,100,85,6.9,98.0,66,mid risk,1,0,-0.4048687280419356,-1.3041930593330586,Maintain regular check-ups and a balanced diet.
+22,120,90,7.8,98.0,82,mid risk,1,0,0.4828255112806473,0.18738583701018666,Maintain regular check-ups and a balanced diet.
+60,120,85,15.0,98.0,60,mid risk,2,1,2.401154241483411,-0.6742462113151405,Monitor blood pressure regularly and reduce sodium intake.
+13,90,65,7.8,101.0,80,mid risk,0,2,-2.2171793349758717,1.2203561275057728,Engage in regular physical activity and manage stress levels.
+23,120,90,7.8,98.0,60,mid risk,1,0,0.46067192336746066,-1.9654227264039377,Maintain regular check-ups and a balanced diet.
+28,115,60,7.8,101.0,86,mid risk,0,2,-1.1851077817153948,1.8944478125382958,Engage in regular physical activity and manage stress levels.
+50,120,80,7.8,98.0,70,mid risk,1,1,0.9831810201214186,-0.5457523559135072,Monitor blood pressure regularly and reduce sodium intake.
+29,130,70,7.8,98.0,78,mid risk,1,0,0.23443661538047847,-0.0005694804255711417,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+19,120,85,7.8,98.0,60,mid risk,1,0,0.14289587309252993,-1.9724489243838361,Maintain regular check-ups and a balanced diet.
+60,90,65,6.8,98.0,77,mid risk,1,1,-0.23344083972899923,0.48160724277106304,Monitor blood pressure regularly and reduce sodium intake.
+55,120,90,6.8,98.0,66,mid risk,1,1,1.3824151392806787,-1.0711679707033843,Monitor blood pressure regularly and reduce sodium intake.
+25,120,80,6.8,98.0,66,mid risk,1,0,0.03451966673832039,-1.367661308984723,Maintain regular check-ups and a balanced diet.
+12,120,95,6.8,98.0,60,mid risk,1,0,0.16349412245491252,-2.258169273519081,Maintain regular check-ups and a balanced diet.
+35,100,70,6.8,98.0,60,mid risk,1,0,-0.608894127929081,-1.618505141381863,Maintain regular check-ups and a balanced diet.
+19,120,90,6.8,98.0,60,mid risk,1,0,0.20188975817623012,-2.1239750003382083,Maintain regular check-ups and a balanced diet.
+60,90,65,6.8,98.0,77,mid risk,1,1,-0.23344083972899923,0.48160724277106304,Monitor blood pressure regularly and reduce sodium intake.
+50,130,80,16.0,102.0,76,mid risk,0,2,1.5477819022235522,2.115378528840121,Engage in regular physical activity and manage stress levels.
+27,120,90,6.8,102.0,68,mid risk,0,2,-0.3174001709014643,0.019079515669843422,Engage in regular physical activity and manage stress levels.
+55,100,70,6.8,101.0,80,mid risk,0,2,-0.5103494448637041,1.546659755870223,Engage in regular physical activity and manage stress levels.
+12,120,90,6.8,98.0,80,mid risk,1,0,0.024810350810130135,-0.24507276556315036,Maintain regular check-ups and a balanced diet.
+60,120,80,6.8,98.0,77,mid risk,1,1,1.195059629137352,0.16449994783209979,Monitor blood pressure regularly and reduce sodium intake.
+25,120,100,6.8,98.0,60,mid risk,1,0,0.7726833703631373,-2.13559905368037,Maintain regular check-ups and a balanced diet.
+22,90,60,6.8,98.0,77,mid risk,0,0,-1.652111192174152,0.03808140665787266,Maintain regular check-ups and a balanced diet.
+30,120,80,6.8,98.0,70,mid risk,1,0,0.20633094802655402,-0.9097162242634448,Maintain regular check-ups and a balanced diet.
+35,120,60,6.1,98.0,76,mid risk,1,0,-0.46042216661660273,-0.1526269190441499,Maintain regular check-ups and a balanced diet.
+23,130,70,6.8,98.0,78,mid risk,1,0,-0.08910403817370631,-0.1847982036618002,Maintain regular check-ups and a balanced diet.
+43,130,80,18.0,98.0,70,mid risk,2,1,2.362938982603792,0.3964379688769475,Monitor blood pressure regularly and reduce sodium intake.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+30,120,75,6.8,98.0,70,mid risk,1,0,0.01807187447753177,-0.8653895236394265,Maintain regular check-ups and a balanced diet.
+32,120,80,6.8,98.0,70,mid risk,1,0,0.2710894363895083,-0.8840397749614864,Maintain regular check-ups and a balanced diet.
+23,130,70,6.8,98.0,78,mid risk,1,0,-0.08910403817370631,-0.1847982036618002,Maintain regular check-ups and a balanced diet.
+42,130,80,18.0,98.0,70,mid risk,2,1,2.330559738422315,0.3835997442259682,Monitor blood pressure regularly and reduce sodium intake.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+31,110,90,6.8,100.0,70,mid risk,0,2,-0.07175641174595619,-0.29773527190447263,Engage in regular physical activity and manage stress levels.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+25,120,80,7.9,98.0,66,mid risk,1,0,0.17671137405017473,-1.2497419961213334,Maintain regular check-ups and a balanced diet.
+31,120,60,6.1,98.0,76,mid risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+23,120,90,7.9,98.0,70,mid risk,1,0,0.4983860931661129,-0.9703178852049461,Maintain regular check-ups and a balanced diet.
+29,130,70,7.9,98.0,78,mid risk,1,0,0.24736313422701076,0.01015045710746432,Maintain regular check-ups and a balanced diet.
+48,120,80,11.0,98.0,88,mid risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+18,120,80,7.9,102.0,76,mid risk,0,2,-0.8233096875592526,0.8976161308552218,Engage in regular physical activity and manage stress levels.
+18,85,60,7.5,101.0,86,mid risk,0,2,-2.4114030282890466,1.918032946496306,Engage in regular physical activity and manage stress levels.
+29,130,70,7.5,98.0,78,mid risk,1,0,0.1956570588408819,-0.032729293024677364,Maintain regular check-ups and a balanced diet.
+23,120,75,8.0,98.0,70,mid risk,1,0,-0.05346460863442164,-0.8266178457998559,Maintain regular check-ups and a balanced diet.
+15,120,80,7.5,98.0,70,mid risk,1,0,-0.1888720827698775,-1.0272500312968846,Maintain regular check-ups and a balanced diet.
+30,120,80,7.5,101.0,76,mid risk,0,2,-0.2869263319448541,0.6955848775679669,Engage in regular physical activity and manage stress levels.
+40,120,95,11.0,98.0,80,mid risk,2,1,1.6626020529948646,0.5203082004277353,Monitor blood pressure regularly and reduce sodium intake.
+60,120,85,15.0,98.0,60,mid risk,2,1,2.401154241483411,-0.6742462113151405,Monitor blood pressure regularly and reduce sodium intake.
+50,130,100,16.0,98.0,75,mid risk,2,1,3.096493434615636,0.5867924401099983,Monitor blood pressure regularly and reduce sodium intake.
+28,115,60,7.5,101.0,86,mid risk,0,2,-1.2238873382549915,1.8622879999391895,Engage in regular physical activity and manage stress levels.
+31,120,60,6.1,98.0,76,mid risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+23,120,80,7.5,98.0,70,mid risk,1,0,0.0701618706819396,-0.9245442340890512,Maintain regular check-ups and a balanced diet.
+29,130,70,7.5,98.0,78,mid risk,1,0,0.1956570588408819,-0.032729293024677364,Maintain regular check-ups and a balanced diet.
+22,100,65,7.5,98.0,70,mid risk,0,0,-1.1028100929594604,-0.6816508948233698,Maintain regular check-ups and a balanced diet.
+49,120,90,7.5,98.0,77,mid risk,1,1,1.3058917221648736,0.00966563815454014,Monitor blood pressure regularly and reduce sodium intake.
+28,90,60,7.5,98.0,82,mid risk,0,0,-1.354956269683504,0.6823427691279736,Maintain regular check-ups and a balanced diet.
+12,90,60,7.5,102.0,66,mid risk,0,2,-2.710838421401738,0.1547561247142307,Engage in regular physical activity and manage stress levels.
+20,100,90,7.5,98.0,88,mid risk,1,0,-0.18165544186348762,0.8429319793533013,Maintain regular check-ups and a balanced diet.
+23,100,85,7.5,98.0,66,mid risk,1,0,-0.32730961496274236,-1.2398734341348463,Maintain regular check-ups and a balanced diet.
+22,120,90,7.5,98.0,82,mid risk,1,0,0.44404595474105074,0.15522602441108038,Maintain regular check-ups and a balanced diet.
+21,120,80,7.5,98.0,77,mid risk,1,0,0.022754737985469287,-0.2611512508248402,Maintain regular check-ups and a balanced diet.
+60,120,80,7.5,98.0,75,mid risk,1,1,1.2805877308726534,0.04266252983015642,Monitor blood pressure regularly and reduce sodium intake.
+50,130,100,16.0,98.0,75,mid risk,2,1,3.096493434615636,0.5867924401099983,Monitor blood pressure regularly and reduce sodium intake.
+17,90,65,7.5,103.0,67,mid risk,0,2,-2.557742862672919,0.5862692366785671,Engage in regular physical activity and manage stress levels.
+29,130,70,7.5,98.0,78,mid risk,1,0,0.1956570588408819,-0.032729293024677364,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+19,120,85,9.0,98.0,60,mid risk,1,0,0.29801409925091643,-1.8438096739874112,Maintain regular check-ups and a balanced diet.
+30,90,65,8.0,98.0,77,mid risk,0,0,-1.0496999390149264,0.2250997536381127,Maintain regular check-ups and a balanced diet.
+28,85,60,9.0,101.0,86,mid risk,0,2,-1.8937128037762925,2.207214256001629,Engage in regular physical activity and manage stress levels.
+50,120,80,7.0,98.0,70,mid risk,1,1,0.879768869349161,-0.6315118561777904,Monitor blood pressure regularly and reduce sodium intake.
+39,110,70,7.9,98.0,80,mid risk,0,1,0.00029760741934986427,0.45816114639505284,Monitor blood pressure regularly and reduce sodium intake.
+29,130,70,8.0,98.0,78,mid risk,1,0,0.2602896530735429,0.02087039464049967,Maintain regular check-ups and a balanced diet.
+17,90,60,9.0,102.0,86,mid risk,0,2,-2.3054691158921283,2.34851611829657,Engage in regular physical activity and manage stress levels.
+32,120,90,7.0,100.0,70,mid risk,0,2,0.2743836195350135,-0.32483290320972547,Engage in regular physical activity and manage stress levels.
+42,120,90,9.0,98.0,70,mid risk,1,1,1.2557834399260326,-0.6084723039729523,Monitor blood pressure regularly and reduce sodium intake.
+36,120,90,7.0,98.0,82,mid risk,1,0,0.8327227790490694,0.2813614818596119,Maintain regular check-ups and a balanced diet.
+30,120,80,9.0,101.0,76,mid risk,0,2,-0.09302854924687104,0.8563839405634981,Engage in regular physical activity and manage stress levels.
+15,70,50,6.0,98.0,70,mid risk,0,0,-2.951863053794134,-0.615210235436792,Maintain regular check-ups and a balanced diet.
+10,100,50,6.0,99.0,70,mid risk,0,2,-2.449574527305037,-0.5503183527917328,Engage in regular physical activity and manage stress levels.
+12,100,50,6.4,98.0,70,mid risk,0,0,-2.133571462733152,-0.7949723523244961,Maintain regular check-ups and a balanced diet.
+12,100,50,6.0,98.0,70,mid risk,0,0,-2.1852775381192813,-0.8378521024566379,Maintain regular check-ups and a balanced diet.
+23,130,70,7.01,98.0,78,mid risk,1,0,-0.06195834859598869,-0.1622863348424259,Maintain regular check-ups and a balanced diet.
+32,120,90,6.9,98.0,70,mid risk,1,0,0.6605341023340849,-0.9619732386764875,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+20,120,75,7.01,100.0,70,mid risk,0,2,-0.6776518794051256,-0.34483950339611713,Engage in regular physical activity and manage stress levels.
+48,120,80,11.0,98.0,88,mid risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+30,120,80,6.9,101.0,76,mid risk,0,2,-0.36448544502404734,0.6312652523697545,Engage in regular physical activity and manage stress levels.
+18,120,80,6.9,102.0,76,mid risk,0,2,-0.9525748760245746,0.7904167555248677,Engage in regular physical activity and manage stress levels.
+17,90,60,6.9,101.0,76,mid risk,0,2,-2.402175161798623,0.8258023274700068,Engage in regular physical activity and manage stress levels.
+17,90,63,6.9,101.0,70,mid risk,0,2,-2.3040923082404814,0.20857536489602213,Engage in regular physical activity and manage stress levels.
+25,120,90,6.7,101.0,80,mid risk,0,2,-0.16580149614560494,0.8507348142671337,Engage in regular physical activity and manage stress levels.
+17,120,80,6.7,102.0,76,mid risk,0,2,-1.0108071578991162,0.7561386558078177,Engage in regular physical activity and manage stress levels.
+13,90,65,7.9,101.0,80,mid risk,0,2,-2.2042528161293395,1.2310760650388084,Engage in regular physical activity and manage stress levels.
+31,120,60,6.1,98.0,76,mid risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+29,130,70,6.1,98.0,78,mid risk,1,0,0.014685794989430965,-0.18280841848717308,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+28,85,60,9.0,101.0,86,mid risk,0,2,-1.8937128037762925,2.207214256001629,Engage in regular physical activity and manage stress levels.
+50,140,80,6.7,98.0,70,mid risk,1,0,1.4168048116224208,-0.7864231308215022,Maintain regular check-ups and a balanced diet.
+29,90,70,6.7,98.0,80,mid risk,0,0,-1.054428559366664,0.32389111153344174,Maintain regular check-ups and a balanced diet.
+31,120,60,6.1,98.0,76,mid risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+29,130,70,6.7,98.0,78,mid risk,1,0,0.09224490806862429,-0.11848879328896061,Maintain regular check-ups and a balanced diet.
+17,85,60,9.0,102.0,86,mid risk,0,2,-2.4494229905953424,2.379203983807721,Engage in regular physical activity and manage stress levels.
+19,120,80,7.0,98.0,70,mid risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+20,110,60,7.0,100.0,70,mid risk,0,2,-1.5316295013432737,-0.15155566425506295,Engage in regular physical activity and manage stress levels.
+32,120,65,6.0,101.0,76,mid risk,0,2,-0.9808428469269497,0.6934423657464491,Engage in regular physical activity and manage stress levels.
+27,120,70,6.8,98.0,77,low risk,1,0,-0.2499735759494379,-0.1705080644021764,Maintain regular check-ups and a balanced diet.
+27,120,70,6.8,98.0,77,low risk,1,0,-0.2499735759494379,-0.1705080644021764,Maintain regular check-ups and a balanced diet.
+32,120,90,6.8,98.0,70,low risk,1,0,0.6476075834875527,-0.972693176209523,Maintain regular check-ups and a balanced diet.
+23,99,60,6.8,98.0,76,low risk,0,0,-1.3630937386221016,-0.10275701697781628,Maintain regular check-ups and a balanced diet.
+15,76,49,6.8,98.0,77,low risk,0,0,-2.6960067124213403,0.13165859890508258,Maintain regular check-ups and a balanced diet.
+15,120,80,6.8,98.0,70,low risk,1,0,-0.27935771469560294,-1.1022895940281323,Maintain regular check-ups and a balanced diet.
+29,100,70,6.8,98.0,80,low risk,0,0,-0.7535942911137038,0.27323531804417434,Maintain regular check-ups and a balanced diet.
+35,120,60,6.1,98.0,76,low risk,1,0,-0.46042216661660273,-0.1526269190441499,Maintain regular check-ups and a balanced diet.
+32,120,90,6.8,98.0,70,low risk,1,0,0.6476075834875527,-0.972693176209523,Maintain regular check-ups and a balanced diet.
+23,90,60,6.8,98.0,76,low risk,0,0,-1.622210713087887,-0.04751885905774375,Maintain regular check-ups and a balanced diet.
+15,76,49,6.8,98.0,77,low risk,0,0,-2.6960067124213403,0.13165859890508258,Maintain regular check-ups and a balanced diet.
+20,120,75,6.8,98.0,70,low risk,1,0,-0.30572056733723946,-0.9937717701492182,Maintain regular check-ups and a balanced diet.
+48,120,80,11.0,98.0,88,low risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+15,120,80,6.8,98.0,70,low risk,1,0,-0.27935771469560294,-1.1022895940281323,Maintain regular check-ups and a balanced diet.
+30,120,80,6.8,101.0,76,low risk,0,2,-0.37741196387057957,0.620545314836719,Engage in regular physical activity and manage stress levels.
+18,120,80,6.8,102.0,76,low risk,0,2,-0.9655013948711069,0.7796968179918323,Engage in regular physical activity and manage stress levels.
+17,90,60,7.9,101.0,76,low risk,0,2,-2.272909973333301,0.9330017028003609,Engage in regular physical activity and manage stress levels.
+15,76,49,7.9,98.0,77,low risk,0,0,-2.553815005109486,0.24957791176847208,Maintain regular check-ups and a balanced diet.
+19,120,75,7.9,98.0,70,low risk,1,0,-0.19590810420686228,-0.8886906819368079,Maintain regular check-ups and a balanced diet.
+48,120,80,11.0,98.0,88,low risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+15,120,80,7.9,98.0,70,low risk,1,0,-0.13716600738374862,-0.9843702811647429,Maintain regular check-ups and a balanced diet.
+22,100,65,7.9,98.0,80,low risk,0,0,-1.0263163666212116,0.3456137589747279,Maintain regular check-ups and a balanced diet.
+35,100,70,7.9,98.0,60,low risk,1,0,-0.46670242061722655,-1.5005858285184734,Maintain regular check-ups and a balanced diet.
+19,120,85,7.9,98.0,60,low risk,1,0,0.15582239193906222,-1.9617289868508008,Maintain regular check-ups and a balanced diet.
+60,90,65,7.9,98.0,77,low risk,1,1,-0.09124913241714493,0.5995265556344526,Monitor blood pressure regularly and reduce sodium intake.
+50,120,80,7.9,98.0,70,low risk,1,1,0.9961075389679509,-0.5350324183804718,Monitor blood pressure regularly and reduce sodium intake.
+17,85,60,7.9,102.0,86,low risk,0,2,-2.591614697907197,2.261284670944332,Engage in regular physical activity and manage stress levels.
+32,120,90,7.9,98.0,70,low risk,1,0,0.789799290799407,-0.8547738633461335,Maintain regular check-ups and a balanced diet.
+42,120,80,7.9,98.0,70,low risk,1,1,0.7370735855161338,-0.6377382155883051,Monitor blood pressure regularly and reduce sodium intake.
+23,90,60,7.9,98.0,76,low risk,0,0,-1.4800190057760327,0.07040045380564576,Maintain regular check-ups and a balanced diet.
+19,120,80,7.0,98.0,70,low risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+15,76,49,7.9,98.0,77,low risk,0,0,-2.553815005109486,0.24957791176847208,Maintain regular check-ups and a balanced diet.
+16,120,75,7.9,98.0,7,low risk,1,0,-0.4492080377496494,-7.128830248985269,Maintain regular check-ups and a balanced diet.
+15,120,80,7.9,98.0,70,low risk,1,0,-0.13716600738374862,-0.9843702811647429,Maintain regular check-ups and a balanced diet.
+17,70,50,7.9,98.0,70,low risk,0,0,-2.6415007073470678,-0.3858549730071609,Maintain regular check-ups and a balanced diet.
+17,90,60,7.5,101.0,76,low risk,0,2,-2.3246160487194296,0.8901219526682193,Engage in regular physical activity and manage stress levels.
+17,90,63,7.5,101.0,70,low risk,0,2,-2.2265331951612883,0.27289499009423457,Engage in regular physical activity and manage stress levels.
+25,120,90,7.5,101.0,80,low risk,0,2,-0.06238934537334737,0.9364943145314168,Engage in regular physical activity and manage stress levels.
+17,120,80,7.5,102.0,76,low risk,0,2,-0.9073950071268585,0.841898156072101,Engage in regular physical activity and manage stress levels.
+19,90,65,7.5,101.0,70,low risk,0,2,-2.086471077378725,0.2808407591465856,Engage in regular physical activity and manage stress levels.
+15,80,60,7.5,98.0,80,low risk,0,0,-2.0687517236395587,0.3799445989543559,Maintain regular check-ups and a balanced diet.
+60,90,65,7.5,98.0,77,low risk,1,1,-0.14295520780327378,0.5566468055023109,Monitor blood pressure regularly and reduce sodium intake.
+50,120,80,7.5,98.0,70,low risk,1,1,0.944401463581822,-0.5779121685126134,Monitor blood pressure regularly and reduce sodium intake.
+19,90,70,7.5,98.0,80,low risk,0,0,-1.2748088504091775,0.28126836528793325,Maintain regular check-ups and a balanced diet.
+31,120,60,6.1,98.0,76,low risk,1,0,-0.5899391433425113,-0.20397981764806658,Maintain regular check-ups and a balanced diet.
+23,120,90,7.5,98.0,70,low risk,1,0,0.446680017779984,-1.0131976353370877,Maintain regular check-ups and a balanced diet.
+17,85,60,7.5,102.0,86,low risk,0,2,-2.643320773293326,2.21840492081219,Engage in regular physical activity and manage stress levels.
+32,120,90,7.5,98.0,70,low risk,1,0,0.7380932154132781,-0.8976536134782752,Maintain regular check-ups and a balanced diet.
+42,120,80,7.5,98.0,70,low risk,1,0,0.6853675101300049,-0.6806179657204467,Maintain regular check-ups and a balanced diet.
+42,90,60,7.5,98.0,76,low risk,0,1,-0.9165194417140962,0.27144697204210844,Monitor blood pressure regularly and reduce sodium intake.
+19,120,80,7.0,98.0,70,low risk,1,0,-0.12398770027662995,-1.029496820358145,Maintain regular check-ups and a balanced diet.
+15,78,49,7.5,98.0,77,low risk,0,0,-2.547939530614329,0.1944230154318699,Maintain regular check-ups and a balanced diet.
+16,70,50,7.5,100.0,70,low risk,0,2,-3.1246630285602777,0.18484745014344506,Engage in regular physical activity and manage stress levels.
+16,100,70,7.5,98.0,80,low risk,0,0,-1.084038833547181,0.1813779603126929,Maintain regular check-ups and a balanced diet.
+19,120,75,7.5,98.0,66,low risk,1,0,-0.25752923997383914,-1.325324393535332,Maintain regular check-ups and a balanced diet.
+22,100,65,7.5,98.0,70,low risk,0,0,-1.1028100929594604,-0.6816508948233698,Maintain regular check-ups and a balanced diet.
+49,120,90,7.5,98.0,77,low risk,1,1,1.3058917221648736,0.00966563815454014,Monitor blood pressure regularly and reduce sodium intake.
+28,90,60,7.5,98.0,82,low risk,0,0,-1.354956269683504,0.6823427691279736,Maintain regular check-ups and a balanced diet.
+12,90,60,7.5,102.0,66,low risk,0,2,-2.710838421401738,0.1547561247142307,Engage in regular physical activity and manage stress levels.
+20,100,90,7.5,98.0,88,low risk,1,0,-0.18165544186348762,0.8429319793533013,Maintain regular check-ups and a balanced diet.
+23,100,85,7.5,98.0,66,low risk,1,0,-0.32730961496274236,-1.2398734341348463,Maintain regular check-ups and a balanced diet.
+22,120,90,7.5,98.0,82,low risk,1,0,0.44404595474105074,0.15522602441108038,Maintain regular check-ups and a balanced diet.
+21,120,80,7.5,98.0,77,low risk,1,0,0.022754737985469287,-0.2611512508248402,Maintain regular check-ups and a balanced diet.
+21,75,50,7.5,98.0,60,low risk,0,0,-2.444523582256194,-1.3924545937124932,Maintain regular check-ups and a balanced diet.
+12,90,60,7.5,102.0,60,low risk,0,2,-2.7257110119730097,-0.4358748174853431,Engage in regular physical activity and manage stress levels.
+60,120,80,7.5,98.0,75,low risk,1,1,1.2805877308726534,0.04266252983015642,Monitor blood pressure regularly and reduce sodium intake.
+55,100,65,7.5,98.0,66,low risk,1,1,-0.04421009535156327,-0.6517434428074395,Monitor blood pressure regularly and reduce sodium intake.
+45,120,95,7.5,98.0,66,low risk,1,1,1.3373674029406553,-1.1688373551059466,Monitor blood pressure regularly and reduce sodium intake.
+35,100,70,7.5,98.0,66,low risk,1,0,-0.5035359054320836,-0.9528346364510413,Maintain regular check-ups and a balanced diet.
+22,120,85,7.5,98.0,88,low risk,1,0,0.2706594717633006,0.7901836672346724,Maintain regular check-ups and a balanced diet.
+13,90,65,7.5,101.0,80,low risk,0,2,-2.2559588915154682,1.1881963149066668,Engage in regular physical activity and manage stress levels.
+23,120,90,7.5,98.0,60,low risk,1,0,0.4218923668278641,-1.997582539003044,Maintain regular check-ups and a balanced diet.
+17,90,65,7.5,103.0,67,low risk,0,2,-2.557742862672919,0.5862692366785671,Engage in regular physical activity and manage stress levels.
+59,120,80,7.5,98.0,70,low risk,1,1,1.2358146612151162,-0.4623681466538009,Monitor blood pressure regularly and reduce sodium intake.
+23,120,80,7.5,98.0,70,low risk,1,0,0.0701618706819396,-0.9245442340890512,Maintain regular check-ups and a balanced diet.
+17,85,60,7.5,102.0,86,low risk,0,2,-2.643320773293326,2.21840492081219,Engage in regular physical activity and manage stress levels.
+32,120,90,7.5,98.0,70,low risk,1,0,0.7380932154132781,-0.8976536134782752,Maintain regular check-ups and a balanced diet.
+42,120,80,7.5,98.0,70,low risk,1,0,0.6853675101300049,-0.6806179657204467,Maintain regular check-ups and a balanced diet.
+25,140,100,7.01,98.0,80,high risk,1,0,1.4252198606579511,-0.26706883957368893,Maintain regular check-ups and a balanced diet.
+40,140,100,18.0,98.0,90,high risk,2,1,3.3563205955661175,2.088010568737546,Monitor blood pressure regularly and reduce sodium intake.
+32,140,100,6.9,98.0,78,high risk,1,0,1.6326978690066816,-0.3858701790363648,Maintain regular check-ups and a balanced diet.
+14,90,65,7.0,101.0,70,high risk,0,2,-2.312999892518772,0.16304994822651264,Engage in regular physical activity and manage stress levels.
+37,120,90,11.0,98.0,88,high risk,2,1,1.397035367663107,1.313628150031581,Monitor blood pressure regularly and reduce sodium intake.
+17,110,75,12.0,101.0,76,high risk,0,2,-0.6023299811655578,1.1167875777381522,Engage in regular physical activity and manage stress levels.
+40,120,90,12.0,98.0,80,high risk,2,1,1.6036081679111645,0.6718342763821077,Monitor blood pressure regularly and reduce sodium intake.
+40,160,100,19.0,98.0,77,high risk,2,1,4.029177336606539,0.7927581072575517,Monitor blood pressure regularly and reduce sodium intake.
+32,140,90,18.0,98.0,88,high risk,2,1,2.7158109648258315,1.877081192044558,Monitor blood pressure regularly and reduce sodium intake.
+12,90,60,7.9,102.0,66,high risk,0,2,-2.6591323460156087,0.19763587484637232,Engage in regular physical activity and manage stress levels.
+35,140,100,8.0,98.0,66,high risk,1,0,1.8422821277204233,-1.4106980766191852,Maintain regular check-ups and a balanced diet.
+54,140,100,15.0,98.0,66,high risk,2,1,3.362344086425743,-0.41637618093810236,Monitor blood pressure regularly and reduce sodium intake.
+40,120,95,11.0,98.0,80,high risk,2,1,1.6626020529948646,0.5203082004277353,Monitor blood pressure regularly and reduce sodium intake.
+60,120,85,15.0,98.0,60,high risk,2,1,2.401154241483411,-0.6742462113151405,Monitor blood pressure regularly and reduce sodium intake.
+55,140,95,19.0,98.0,77,high risk,2,1,3.750791426966818,1.152409639690863,Monitor blood pressure regularly and reduce sodium intake.
+50,130,100,16.0,98.0,75,high risk,2,1,3.096493434615636,0.5867924401099983,Monitor blood pressure regularly and reduce sodium intake.
+17,90,65,6.1,103.0,67,high risk,0,2,-2.73871412652437,0.4361901112160714,Engage in regular physical activity and manage stress levels.
+28,83,60,8.0,101.0,86,high risk,0,2,-2.0805595421229,2.112290026875735,Engage in regular physical activity and manage stress levels.
+50,120,80,15.0,98.0,70,high risk,2,1,1.9138903770717375,0.22608314646504213,Monitor blood pressure regularly and reduce sodium intake.
+17,85,60,9.0,102.0,86,high risk,0,2,-2.4494229905953424,2.379203983807721,Engage in regular physical activity and manage stress levels.
+33,120,75,10.0,98.0,70,high risk,1,1,0.5288582101109937,-0.48383684862935594,Monitor blood pressure regularly and reduce sodium intake.
+48,120,80,11.0,98.0,88,high risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+50,140,95,17.0,98.0,60,high risk,2,1,3.2882258225101846,-0.7996345704568664,Monitor blood pressure regularly and reduce sodium intake.
+30,140,100,15.0,98.0,70,high risk,2,1,2.59515728645114,-0.3307396110952202,Monitor blood pressure regularly and reduce sodium intake.
+29,120,75,7.2,100.0,70,high risk,0,2,-0.36167829596342016,-0.20892760022453724,Engage in regular physical activity and manage stress levels.
+48,120,80,11.0,98.0,88,high risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+50,140,90,15.0,98.0,77,high risk,2,1,2.8835753786491223,0.7037477157385692,Monitor blood pressure regularly and reduce sodium intake.
+25,140,100,7.2,98.0,80,high risk,1,0,1.4497802464663623,-0.24670095826092162,Maintain regular check-ups and a balanced diet.
+55,140,80,7.2,101.0,76,high risk,0,2,1.0595907148653336,0.8616292191987346,Engage in regular physical activity and manage stress levels.
+40,140,100,18.0,98.0,77,high risk,2,1,3.3240966493283617,0.8083101939718033,Monitor blood pressure regularly and reduce sodium intake.
+28,120,80,9.0,102.0,76,high risk,0,2,-0.35732553843262715,1.1439176902284032,Engage in regular physical activity and manage stress levels.
+32,140,100,8.0,98.0,70,high risk,1,0,1.7550594555568397,-1.0554587891057403,Maintain regular check-ups and a balanced diet.
+17,90,60,11.0,101.0,78,high risk,0,2,-1.867230358900379,1.4621967470576498,Engage in regular physical activity and manage stress levels.
+17,90,63,8.0,101.0,70,high risk,0,2,-2.1619006009286275,0.32649467775941154,Engage in regular physical activity and manage stress levels.
+25,120,90,12.0,101.0,80,high risk,0,2,0.5193040027206018,1.4188915035180103,Engage in regular physical activity and manage stress levels.
+17,120,80,7.0,102.0,76,high risk,0,2,-0.9720276013595196,0.788298468406924,Engage in regular physical activity and manage stress levels.
+19,90,65,11.0,101.0,70,high risk,0,2,-1.6340429177500984,0.6560385728028247,Engage in regular physical activity and manage stress levels.
+37,120,90,11.0,98.0,88,high risk,2,1,1.397035367663107,1.313628150031581,Monitor blood pressure regularly and reduce sodium intake.
+17,110,75,13.0,101.0,76,high risk,0,2,-0.4730647927002357,1.2239869530685061,Engage in regular physical activity and manage stress levels.
+25,120,90,15.0,98.0,80,high risk,2,1,1.5057150705849738,0.8008590326084822,Monitor blood pressure regularly and reduce sodium intake.
+40,160,100,19.0,98.0,77,high risk,2,1,4.029177336606539,0.7927581072575517,Monitor blood pressure regularly and reduce sodium intake.
+32,140,90,18.0,98.0,88,high risk,2,1,2.7158109648258315,1.877081192044558,Monitor blood pressure regularly and reduce sodium intake.
+12,90,60,8.0,102.0,66,high risk,0,2,-2.6462058271690765,0.20835581237940767,Engage in regular physical activity and manage stress levels.
+35,140,100,9.0,98.0,66,high risk,1,1,1.9715473161857455,-1.303498701288831,Monitor blood pressure regularly and reduce sodium intake.
+54,140,100,15.0,98.0,66,high risk,2,1,3.362344086425743,-0.41637618093810236,Monitor blood pressure regularly and reduce sodium intake.
+40,120,95,11.0,98.0,80,high risk,2,1,1.6626020529948646,0.5203082004277353,Monitor blood pressure regularly and reduce sodium intake.
+12,90,60,11.0,102.0,60,high risk,0,2,-2.273282852344382,-0.060677003829103834,Engage in regular physical activity and manage stress levels.
+60,120,85,15.0,98.0,60,high risk,2,1,2.401154241483411,-0.6742462113151405,Monitor blood pressure regularly and reduce sodium intake.
+55,140,95,19.0,98.0,77,high risk,2,1,3.750791426966818,1.152409639690863,Monitor blood pressure regularly and reduce sodium intake.
+50,130,100,16.0,98.0,76,high risk,2,1,3.098972199710848,0.6852309304765939,Monitor blood pressure regularly and reduce sodium intake.
+13,90,65,9.0,101.0,80,high risk,0,2,-2.062061108817485,1.3489953779021977,Engage in regular physical activity and manage stress levels.
+17,90,65,7.7,103.0,67,high risk,0,2,-2.5318898249798547,0.607709111744638,Engage in regular physical activity and manage stress levels.
+17,85,60,6.3,102.0,86,high risk,0,2,-2.7984389994517125,2.0897656704157654,Engage in regular physical activity and manage stress levels.
+40,120,75,7.7,98.0,70,high risk,1,0,0.458202985911093,-0.640527839332316,Maintain regular check-ups and a balanced diet.
+48,120,80,11.0,98.0,88,high risk,2,1,1.376688906561311,1.5435020224403884,Monitor blood pressure regularly and reduce sodium intake.
+22,120,60,15.0,98.0,80,high risk,2,1,0.2790228967464089,1.0283045623996545,Monitor blood pressure regularly and reduce sodium intake.
+55,120,90,18.0,98.0,60,high risk,2,1,2.8153126595210134,-0.46116590920299244,Monitor blood pressure regularly and reduce sodium intake.
+35,85,60,19.0,98.0,86,high risk,2,1,0.22420929261567354,2.4294449849614335,Monitor blood pressure regularly and reduce sodium intake.
+43,120,90,18.0,98.0,70,high risk,2,1,2.4515493802954085,0.36916029865121347,Monitor blood pressure regularly and reduce sodium intake.
+32,120,65,6.0,101.0,76,mid risk,0,2,-0.9808428469269497,0.6934423657464491,Engage in regular physical activity and manage stress levels.
